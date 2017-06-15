@@ -1,0 +1,50 @@
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Date Modified
+LBL_MODIFIED,Modified By
+LBL_MODIFIED_ID,Modified By Id
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Created By
+LBL_CREATED_ID,Created By Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_BODY_HTML,Text
+LBL_BASE_MODULE,Zielmodul
+LBL_MODULE_TITLE,Prozess-E-Mail-Vorlagen
+LBL_MODULE_NAME,Prozess-E-Mail-Vorlagen
+LBL_MODULE_NAME_SINGULAR,Prozess-E-Mail-Vorlage
+LNK_LIST,Prozess-E-Mail-Vorlagen anzeigen
+LNK_NEW_PMSE_EMAILS_TEMPLATES,Create Process Email Template
+LNK_IMPORT_PMSE_EMAILS_TEMPLATES,Import Process Email Templates
+LBL_PMSE_SHOW_MORE_VARIABLES,Mehr Variablen anzeigen...
+LBL_PMSE_LABEL_DESIGN,Designen
+LBL_PMSE_LABEL_EXPORT,Exportieren
+LBL_PMSE_LABEL_DELETE,Löschen
+LBL_PMSE_SAVE_EXIT_BUTTON_LABEL,Speichern und Beenden
+LBL_PMSE_SAVE_DESIGN_BUTTON_LABEL,Speichern und Designen
+LBL_PMSE_IMPORT_BUTTON_LABEL,Importieren
+LBL_PMSE_MY_EMAIL_TEMPLATES,Meine Prozess-E-Mail-Vorlagen
+LBL_PMSE_ALL_EMAIL_TEMPLATES,Alle Prozess-E-Mail-Vorlagen
+LBL_PMSE_EMAIL_TEMPLATES_IMPORT_TEXT,Automatisch neuen Eintrag Prozess-E-Mail-Vorlage durch Importieren einer *.pet-Datei aus Ihrem Dateisystem erstellen.
+LBL_PMSE_EMAIL_TEMPLATES_IMPORT_SUCCESS,Prozess-E-Mail-Vorlage wurde erfolgreich in das System importiert.
+LBL_PMSE_EMAIL_TEMPLATES_EMPTY_WARNING,Bitte gültige *.pet-Datei auswählen.
+LBL_PMSE_IMPORT_EMAIL_TEMPLATES_FAILURE,Erstellen der Prozess-E-Mail-Vorlage aus Datei fehlgeschlagen
+LBL_PMSE_PROCESS_EMAIL_TEMPLATES_EDIT,This Email Template is currently being used in a Process Definition. Do you still want to edit this Email Template?
+LBL_PMSE_PROCESS_EMAIL_TEMPLATES_DELETE,You cannot delete this Email Template because it is currently used in a Process Definition.
+LBL_SUGAR_LINK_SELECTOR,Record Link Selector
+LBL_RELATED_TO_TARGET_MODULE,Related to Target Module
+LBL_SELECT_BUTTON_LABEL,Select

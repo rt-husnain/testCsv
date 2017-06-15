@@ -1,0 +1,563 @@
+LBL_ANY_EMAIL,E-Mail-Adressen
+LBL_EMAIL,Email Address:
+LBL_PRIMARY_EMAIL,Primary Email
+LBL_LIST_EMAIL_ADDRESS,E-Mail
+LBL_OTHER_EMAIL_ADDRESS,Weitere E-Mail:
+LBL_EMAIL_ADDRESS,E-Mail:
+LBL_EMAIL_ADDRESSES,Email Address(es)
+LBL_INVALID_EMAIL,Ungültige E-Mail:
+LBL_EMAIL_OPT_OUT,Keine E-Mails senden:
+LBL_EMAIL_NON_PRIMARY,Non-primary emails
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team ID
+LBL_ASSIGNED_TO_ID,Zugew. Benutzer
+LBL_ASSIGNED_TO_NAME,Zugewiesen an:
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Kundenmerkmale
+LBL_ID,ID:
+LBL_DATE_ENTERED,Erstellungsdatum
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Modified By Id
+LBL_MODIFIED_NAME,Geändert von
+LBL_CREATED,Erstellt von
+LBL_CREATED_ID,Created By Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung:
+LBL_DELETED,Gelöscht
+LBL_NAME,Name:
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_SALUTATION,Anrede:
+LBL_FIRST_NAME,Vorname:
+LBL_LAST_NAME,Nachname:
+LBL_TITLE,Funktion:
+LBL_DEPARTMENT,Abteilung:
+LBL_DO_NOT_CALL,Nicht anrufen:
+LBL_HOME_PHONE,Telefon (Privat)
+LBL_MOBILE_PHONE,Telefon (Mobil)
+LBL_OFFICE_PHONE,Telefon (Geschäftlich)
+LBL_OTHER_PHONE,Telefon (Andere)
+LBL_FAX_PHONE,Fax (Geschäftlich)
+LBL_PRIMARY_ADDRESS,Hauptadresse:
+LBL_PRIMARY_ADDRESS_STREET,Straße
+LBL_PRIMARY_ADDRESS_STREET_2,Hauptadresse Strasse 2:
+LBL_PRIMARY_ADDRESS_STREET_3,Hauptadresse Strasse 3:
+LBL_PRIMARY_ADDRESS_CITY,Stadt
+LBL_PRIMARY_ADDRESS_STATE,Hauptadresse Bundesland:
+LBL_PRIMARY_ADDRESS_POSTALCODE,PLZ
+LBL_PRIMARY_ADDRESS_COUNTRY,Land
+LBL_ALT_ADDRESS,Alternate Address
+LBL_ALT_ADDRESS_STREET,2. Adresse Strasse:
+LBL_ALT_ADDRESS_STREET_2,2. Adresse Strasse 2:
+LBL_ALT_ADDRESS_STREET_3,2. Adresse Strasse 3:
+LBL_ALT_ADDRESS_CITY,2. Adresse Stadt:
+LBL_ALT_ADDRESS_STATE,2. Adresse Bundesland:
+LBL_ALT_ADDRESS_POSTALCODE,2. Adresse PLZ:
+LBL_ALT_ADDRESS_COUNTRY,2. Adresse Land:
+LBL_STREET,Strasse
+LBL_PRIMARY_STREET,Address
+LBL_ALT_STREET,Other Address
+LBL_CITY,Stadt:
+LBL_STATE,Bundesland:
+LBL_POSTALCODE,Postal Code
+LBL_POSTAL_CODE,PLZ:
+LBL_COUNTRY,Land:
+LBL_ADDRESS_INFORMATION,Adressinformation
+LBL_CONTACT_INFORMATION,Kontakt Information
+LBL_ASSISTANT,Assistent:
+LBL_ASSISTANT_PHONE,Telefonnr. Assistent:
+LBL_WORK_PHONE,Work Phone
+LNK_IMPORT_VCARD,Neue Kunde von vCard
+LBL_IMPORT_VCARDTEXT,ADurch Import einer vCard neuen Kontakt automatisch anlegen.
+LBL_PICTURE_FILE,Bild
+LBL_LINKEDIN,Linkedin Mitglieder Konto
+LBL_FACEBOOK,Facebook Konto
+LBL_TWITTER,Twitter Konto
+LBL_GOOGLEPLUS,Google Plus ID
+NTC_COPY_ALTERNATE_ADDRESS,Weitere Adresse in Hauptadresse kopieren
+NTC_COPY_PRIMARY_ADDRESS,Hauptadresse in weitere Adresse kopieren
+db_last_name,Nachname
+db_first_name,Vorname
+db_title,Titel
+db_email1,Email
+db_email2,Andere Email
+LNK_CONTACT_REPORTS,Kunden Berichte
+ERR_DELETE_RECORD,Es muss die Datensatznummer angegeben werden, um diesen Datensatz löschen zu können.
+LBL_ACCOUNT_ID,Firma ID
+LBL_ACCOUNT_NAME,Firmenname:
+LBL_CAMPAIGN,Kampagne:
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_ADD_BUSINESSCARD,Eingabe Visitenkarte
+LBL_ADDMORE_BUSINESSCARD,Weitere Visitenkarte anlegen
+LBL_ALTERNATE_ADDRESS,Weitere Adresse:
+LBL_ANY_ADDRESS,Irgendeine Adresse:
+LBL_ANY_PHONE,Irgendeine Telefonnummer:
+LBL_BIRTHDATE,Geburtstag:
+LBL_BUSINESSCARD,Visitenkarte
+LBL_CONTACT_NAME,Name:
+LBL_CONTACT_OPP_FORM_TITLE,Kunde Opportunity:
+LBL_CONTACT_ROLE,Beruf:
+LBL_CONTACT,Kunde:
+LBL_CONTRACTS,Verträge
+LBL_CREATED_ACCOUNT,Neue Firma angelegt
+LBL_CREATED_CALL,Neuer Anruf angelegt
+LBL_CREATED_CONTACT,Neuer Kunde
+LBL_CREATED_MEETING,Neues Meeting angelegt
+LBL_CREATED_OPPORTUNITY,Neue Verkaufschance erstellt
+LBL_DEFAULT_SUBPANEL_TITLE,Kunden
+LBL_DESCRIPTION_INFORMATION,Beschreibungsinformation
+LBL_DIRECT_REPORTS_SUBPANEL_TITLE,Direkt Unterstellte
+LBL_DUPLICATE,Duplikat 
+LBL_EMPTY_VCARD,Bitte wählen Sie eine vCard Datei aus
+LBL_EXISTING_ACCOUNT,Vorhandene Firma ausgewählt
+LBL_EXISTING_CONTACT,Vorhandener Kontakt ausgewähl
+LBL_EXISTING_OPPORTUNITY,Vorhandene Verkaufschance benutzt
+LBL_FULL_NAME,Ganzer Name:
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf
+LBL_IMPORT_VCARD,vCard importieren
+LBL_IMPORT_VCARD_SUCCESS,Kontakt von vCard erfolgreich erstellt
+LBL_VCARD,vCard
+LBL_INVITEE,Direkt Unterstellte
+LBL_LEAD_SOURCE,Quelle:
+LBL_LIST_ACCEPT_STATUS,Status
+LBL_LIST_ACCOUNT_NAME,Firmenname
+LBL_LIST_CONTACT_NAME,Kunde
+LBL_LIST_CONTACT_ROLE,Rolle
+LBL_LIST_FIRST_NAME,Vorname
+LBL_LIST_FORM_TITLE,Kunden Liste
+LBL_VIEW_FORM_TITLE,Kunden
+LBL_LIST_LAST_NAME,Nachname
+LBL_LIST_OTHER_EMAIL_ADDRESS,Weitere E-Mail
+LBL_LIST_PHONE,Telefon Büro
+LBL_LIST_TITLE,Funktion
+LBL_MODULE_NAME,Kunden
+LBL_MODULE_NAME_SINGULAR,Kunde
+LBL_MODULE_TITLE,Kunden
+LBL_NEW_FORM_TITLE,Neuer Kunde
+LBL_NEW_PORTAL_PASSWORD,Neues Portal Passwort:
+LBL_NOTE_SUBJECT,Betreff Notiz
+LBL_OPP_NAME,Verkaufschance Name:
+LBL_OPPORTUNITY_ROLE_ID,Verkaufschance Rollen ID:
+LBL_OPPORTUNITY_ROLE,Verkaufschance Rolle
+LBL_PHONE,Telefon:
+LBL_PORTAL_ACTIVE,Portal Aktiv:
+LBL_PORTAL_APP,Portal Anwendung
+LBL_PORTAL_INFORMATION,Portal Information
+LBL_PORTAL_NAME,Portal Name:
+LBL_PORTAL_PASSWORD_ISSET,Portal Password ist gesetzt:
+LBL_RECORD_SAVED_SUCCESS,{{moduleSingularLower}} <a href="#{{buildRoute model=this}}">{{first_name}} {{last_name}}</a> wurde gespeichert.
+LBL_PRODUCTS_TITLE,Produkte
+LBL_REVENUELINEITEMS_TITLE,Umsatzposten
+LBL_RELATED_CONTACTS_TITLE,Verknüpfte Kunde
+LBL_REPORTS_TO_ID,Berichtet an ID
+LBL_REPORTS_TO,Berichtet an:
+LBL_RESOURCE_NAME,Ressourcenname
+LBL_SAVE_CONTACT,Kunde
+LBL_SEARCH_FORM_TITLE,Kunden Suche
+LBL_SELECT_CHECKED_BUTTON_LABEL,Markierte Kunde auswählen
+LBL_SELECT_CHECKED_BUTTON_TITLE,Markierte Kunde auswählen
+LBL_SYNC_CONTACT,Sync mit Outlook®:
+LBL_PROSPECT_LIST,Kontaktliste
+LNK_CREATE,Neue Person
+LNK_CONTACT_LIST,Kunden
+LNK_NEW_ACCOUNT,Neue Firma
+LNK_NEW_APPOINTMENT,Neuer Termin
+LNK_NEW_CALL,Neuer Anruf
+LNK_NEW_CASE,Neues Ticket
+LNK_NEW_CONTACT,Neuer Kunde
+LNK_NEW_EMAIL,E-Mail archivieren
+LNK_NEW_MEETING,Neues Meeting
+LNK_NEW_NOTE,Neue Notiz
+LNK_NEW_OPPORTUNITY,Neue Verkaufschance
+LNK_NEW_TASK,Neue Aufgabe
+LNK_SELECT_ACCOUNT,Firma auswählen
+MSG_DUPLICATE,Der Kunde den Sie gerade erstellen, könnte eine Dublette einer bereits bestehenden Firma sein. Kunden mit ähnlichen Namen sind unten aufgeführt <br>Drücken Sie auf Speichern um fortzusetzen oder auf Abbrechen um zum Modul zurückzukehren ohne der Kunde zu speichern.
+MSG_SHOW_DUPLICATES, Der Kunde der Sie gerade erstellen, könnte eine Dublette einer bereits bestehenden Kunde sein. Kunden mit ähnlichen Namen sind unten aufgeführt.<br>Drücken Sie auf Speichern um fortzusetzen oder auf Abbrechen um zum Modul zurückzukehren ohne der Kunde zu speichern.
+NTC_DELETE_CONFIRMATION,Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?
+NTC_OPPORTUNITY_REQUIRES_ACCOUNT,Zum erstellen einer Verkaufschance benötigen Sie eine Firma. Bitte erstellen Sie eine Firma oder wählen Sie eine existierende Firma aus.
+NTC_REMOVE_CONFIRMATION,Möchten Sie diesen Kontakt wirklich von diesem Ticket entfernen?
+NTC_REMOVE_DIRECT_REPORT_CONFIRMATION,Möchten Sie diesen Kontakt wirklich entfernen?
+LBL_USER_PASSWORD,Passwort:
+LBL_LEADS_SUBPANEL_TITLE,Interessenten
+LBL_OPPORTUNITIES_SUBPANEL_TITLE,Verkaufschancen
+LBL_DOCUMENTS_SUBPANEL_TITLE,Dokumente
+LBL_QUOTES_SUBPANEL_TITLE,Angebote
+LBL_QUOTES_SHIP_TO,Angebote liefern an
+LBL_QUOTES_BILL_TO,Angebote (Rechnung an)
+LBL_PRODUCTS_SUBPANEL_TITLE,Produkte
+LBL_CONTRACTS_SUBPANEL_TITLE,Verträge
+LBL_COPY_ADDRESS_CHECKED_PRIMARY,zu Hauptadresse kopieren
+LBL_COPY_ADDRESS_CHECKED_ALT,zur anderen Adresse kopieren
+LBL_CASES_SUBPANEL_TITLE,Tickets
+LBL_BUGS_SUBPANEL_TITLE,Fehler
+LBL_PROJECTS_SUBPANEL_TITLE,Projekte
+LBL_PROJECTS_RESOURCES,Projekte Ressourcen
+LBL_TARGET_OF_CAMPAIGNS,Kampagnen (Ziele von):
+LBL_CAMPAIGNS,Kampagnen
+LBL_CAMPAIGN_LIST_SUBPANEL_TITLE,Kampagnen
+LBL_LIST_CITY,Stadt
+LBL_LIST_STATE,Bundesland
+LBL_HOMEPAGE_TITLE,Meine Kunden
+LBL_OPPORTUNITIES,Verkaufschancen
+LBL_PASSWORD_CHANGE_FORM_TITLE,Passwort ändern
+LBL_OLD_PORTAL_PASSWORD,Altes Portal Passwort
+LBL_PORTAL_PASSWORD,Portal Passwort
+LBL_CONFIRM_PORTAL_PASSWORD,Bestätige Portal Passwort
+LBL_LANG_PREF_TOOLTIP,Das Userinterface des Support Portals wird in der hier gewählten Sprache angezeigt.
+LBL_CONTACT_EDIT_PASSWORD,Passwort
+LBL_CHECKOUT_DATE,Datum ausgecheckt
+LBL_CONTACTS_SUBPANEL_TITLE,Kunden
+LBL_PROJECT_SUBPANEL_TITLE,Projekte
+LBL_CAMPAIGNS_SUBPANEL_TITLE,Kampagnen
+LNK_IMPORT_CONTACTS,Kunden importieren
+LBL_PHONE_HOME,Telefon privat
+LBL_PHONE_MOBILE,Telefon mobil
+LBL_PHONE_WORK,Telefon (geschäftlich)
+LBL_PHONE_OTHER,Weiteres Telefon
+LBL_PHONE_FAX,Telefon/Fax:
+LBL_CAMPAIGN_ID,Kampagnen ID
+LBL_PARENT_ID,Parent-ID
+LBL_EXPORT_ASSIGNED_USER_NAME,Zugewiesen Benutzer
+LBL_EXPORT_ASSIGNED_USER_ID,Zugewiesen an
+LBL_EXPORT_MODIFIED_USER_ID,Bearbeiter
+LBL_EXPORT_CREATED_BY,Ersteller
+LBL_EXPORT_PHONE_HOME,Telefon privat:
+LBL_EXPORT_PHONE_MOBILE,Telefon mobil
+LBL_CONTACT_HISTORY_SUBPANEL_TITLE,Verknüpfte Kunden E-Mails
+LBL_USER_SYNC,Benutzer Synchronisation
+LBL_FILENAME,Anlage
+TPL_BROWSER_SUGAR7_RECORDS_TITLE,{{module}} » {{appId}}
+TPL_BROWSER_SUGAR7_RECORD_TITLE,{{#if last_name}}{{#if first_name}}{{first_name}} {{/if}}{{last_name}} » {{/if}}{{module}} » {{appId}}
+LBL_PORTAL_TOUR_PROFILE_INTRO,Im Profil können Sie Ihre Kontaktdaten, Ihr Passwort und Ihre Spracheinstellung verwalten.
+LBL_PORTAL_TOUR_PROFILE_EDIT,Bitte klicken Sie hier um Ihr Profil zu bearbeiten.
+LBL_PORTAL_TOUR_PROFILE_LANGUAGE,Hier können Sie ihre bevorzugte Sprache einstellen. Damit andern Sie die Sprache, die vom Sugar Portal genutzt wird.
+LBL_PORTAL_TOUR_PROFILE_RETURN,Über das Benutzermenü können Sie jederzeit zu Ihren Profil zurückkehren.
+LBL_DNB_PRINCIPAL_ID,D&B Principal-IP
+LBL_DNB_BAL_PREVIEW,Vorschau Kontakte
+LBL_DNB_BAL_RSLT_CNT,Kontakte
+LBL_DNB_BAL_RSLT_HEADER,D&B: Kontaktinformationen
+LBL_NOTES_SUBPANEL_TITLE,Notizen
+LBL_HELP_RECORDS,Das {{plural_module_name}} Modul zeigt alle Personen an, mit denen Ihr Unternehmen in Verbindung steht. {{module_name}} sind typischerweise mit  {{accounts_singular_module}} verknüpft und mehrere {{plural_module_name}} können einer {{accounts_singular_module}} zugewiesen sein. Es gibt verschiedene Möglichkeiten wie Sie {{plural_module_name}} in Sugar erstellen können z. B. Importieren, Konvertieren von {{leads_module}} zu {{plural_module_name}}, etc.. Sobald der {{module_name}} erstellt ist, können Informationen in der Datenansicht eingesehen und editiert werden. Jeder {{module_name}} Datensatz kann mit anderen Sugardatensätzen verknüpft werden wie z. B. {{meetings_module}}, {{cases_module}}, {{opportunities_module}} und viele andere.
+LBL_HELP_RECORD,Das {{plural_module_name}} Modul zeigt alle Personen mit denen Ihr Unternehmen in Verbindung steht.
+- Bearbeiten Sie den Datensatz indem Sie auf ein Feld oder auf die Schaltfläche Bearbeiten klicken.
+- Erstellen oder sehen Sie sich Benutzerkommentare und die Änderungshistorie verschiedener Datensätze im  {{activitystream_singular_module}} an indem Sie die Sicht auf "Activity Stream" im unteren linken Bereich stellen. 
+- Folgen Sie favorisierten Einträgen indem Sie das Sternsymbol neben dem Namen oben anklicken. 
+- Weitere Aktionen finden Sie im Ausklappmenü auf der rechten Seite der Bearbeiten Schaltfläche.
+LBL_HELP_CREATE,Das {{plural_module_name}} Modul zeigt alle Personen mit denen Ihr Unternehmen in Verbindung steht. Um einen {{module_name}} zu erstellen: 1. Erfassen Sie alle relevanten Informationen. - Felder die als Pflichtfeld markiert sind müssen ausgefüllt werden um den Datensatz speichern zu können. - Klicken Sie auf "mehr zeigen" um weitere Felder zu erfassen. 2. Drücken Sie auf "Speichern" um den Datensatz verfügbar zu machen und um auf die letzte Seite zurück zu kommen. - Wählen Sie "Speichern und Öffnen" um den neuen {{module_name}} in der Datensatzansicht zu öffnen. - Wählen Sie "Speichern und neuen Datensatz erstellen" um sofort einen weiteren {{module_name}} Datensatz anzulegen.
+LBL_MKTO_SYNC,Mit Marketo® synchronisieren;
+LBL_MKTO_ID,Marketo Interessenten-ID
+LBL_MKTO_LEAD_SCORE,Interessenten-Bewertung
+LBL_FILTER_CONTACTS_REPORTS,Kontakte Berichte
+LBL_BLOCK_CONTACTS_FILTER,Gesperrte Kunden
+LBL_UNBLOCK_CONTACTS_FILTER,Entsperrt Kunden
+LBL_AUD_AUD_CONTACT_CHANGE_LOG_CONTACTS_FROM_CONTACTS_TITLE,Contacts
+LBL_AUD_AUD_CONTACT_CHANGE_LOG_CONTACTS_FROM_AUD_AUD_CONTACT_CHANGE_LOG_TITLE,Contact Change Log
+LBL_AUD_CONTACT_CHANGE_LOG_CONTACTS_FROM_CONTACTS_TITLE,Contact Change Log
+LBL_AUD_CONTACT_CHANGE_LOG_CONTACTS_FROM_AUD_CONTACT_CHANGE_LOG_TITLE,Contact Change Log
+LBL_RECYLCE_CUSTOMERS_WARNING,Möchten Sie den Kunden wirklich löschen? Der Kunde wird aus den Strecken / Aktionen ausgemeldet.
+LBL_CONTACT_PERSON_OF,Ansprechpartner von
+LBL_AUD_FAX_PRIVATE,Fax (Privat)
+LBL_AUD_EXTERNAL_ID,Externe ID
+LBL_AUD_DEALER_NAME,Partner
+LBL_AUD_DEALERID_AUD_DEALER_ID,Dealer ID
+AUD_DEALER_ID,Dealer ID
+LBL_AUD_DE_ADDRESS_HISTORY_CONTACTS_FROM_CONTACTS_TITLE,De Historie
+LBL_AUD_DE_ADDRESS_HISTORY_CONTACTS_FROM_AUD_DE_ADDRESS_HISTORY_TITLE,De Historie
+LBL_DE_LIST_VIEW,DE
+LBL_AUD_NEWADA_CUSTOMER_NUMBER,Kundennummer (NeWaDa)
+LBL_CONTACTS_FROM_AUD_REGISTERED_CONTACTS_TITLE,Eingemeldete Kunden
+LBL_ADDRESS,Adresse
+LBL_EXPORT_TO_EXCEL,Exportieren (Excel)
+LBL_RECORDVIEW_PANEL_OTHERS,Sonstiges
+LBL_RECORDVIEW_PANEL_DATA_RECORD_INFO,Datensatzinfos
+LBL_RECORDVIEW_PANEL_BACK_OFFICE,Backoffice
+LBL_RECORD_SHOWMORE,Marketingmerkmale
+LBL_AUD_INDUSTRY_DD,Branche
+LBL_AUD_DEALER_BNR,BNR
+LBL_AUD_BONOSRELEVANT_FLAG,Bonusrelevant
+LBL_AUD_NEXT_BIRTHDAY_IN_DAYS,Nächster Geburtstag in
+LBL_AUD_SUB_CONTACT_TYPES_DD,Ausprägung
+LBL_AUD_CREATE_COMPANY,Neue Firma
+LBL_EXPORT_SELECTIONS_TO_XLS,Exportieren(xls)
+LBL_EXPORT_SELECTIONS_TO_CSV,Exportieren(csv)
+LBL_AUD_ROLE_DD,Rolle
+LBL_AUD_ROLE_DD_RELATION,Rolle
+LBL_ERR_PRIMARY_CONTACT_ASSIGNED_ALREADY,Primäre Kontakt bereits zugewiesen
+LBL_AUD_ADDRESS_UPDATED_BY,Adrese update von
+LBL_AUD_ADDRESS_UPDATED_BY_ID,Adrese update von ID
+LBL_CONTACTS_USERS_ADDRESS_UPDATED_BY,Adrese update von
+LBL_AUD_EMAIL_UPDATED_BY,Email update von
+LBL_AUD_EMAIL_UPDATED_BY_ID,Email update von ID
+LBL_CONTACTS_USERS_EMAIL_UPDATED_BY,Email update von
+LBL_AUD_PHONE_UPDATED_BY,Telefon update von
+LBL_AUD_PHONE_UPDATED_BY_ID,Telefon update von ID
+LBL_CONTACTS_USERS_PHONE_UPDATED_BY,Telefon update von
+LBL_CONTACTS_COMPANY_CONTACTS_FROM_CONTACTS_L_TITLE,Ansprechpartner
+LBL_CONTACTS_COMPANY_CONTACTS_FROM_CONTACTS_R_TITLE,Ansprechpartner
+LBL_CONTACTS_COMPANY_CONTACTS_FROM_CONTACTS_R_TITLE_ID,Contacts ID
+LBL_CONFIRM_ALL_BUTTON_LABEL,Alle einmelden
+LBL_CONFIRM_BUTTON_LABEL,Auswahl einmelden
+LBL_TRANSFER_CONTACTS,Kunden umhängen
+LBL_AUD_DEALER_CONTACTS_FROM_AUD_DEALER_TITLE,Partner
+LBL_AUD_DEALER_CONTACTS_FROM_CONTACTS_TITLE_ID,PartnerID
+LBL_AUD_DEALER_CONTACTS_FROM_CONTACTS_TITLE,Partner
+LBL_AUD_INTERFACE_AGIS_ACCEPTED_FLAG,Schnittstelle AGIS akzeptiert?
+LBL_AUD_INTERFACE_TTCALL_ACCEPTED_FLAG,Schnittstelle ttCall akzeptiert?
+LBL_AUD_INTERFACE_EVA_ACCEPTED_FLAG,Schnittstelle EVA akzeptiert?
+LBL_AUD_INTERFACE_NEWADA_ACCEPTED_FLAG,Schnittstelle NeWaDa akzeptiert?
+LBL_AUD_INTERFACE_DSMAVIAV_ACCEPTED_FLAG,Schnittstelle DSMaviaV akzeptiert?
+LBL_RECORDVIEW_PANEL1,Adressdaten
+LBL_ADDRESS_CHANGE_BUTTON,Adressänderung akzeptieren
+LBL_RESOLVE_UPDATES_BUTTON,Ausstehende Änderungen auflösen
+LBL_AUD_PENDING_UPDATES_FLAG,Ausstehende Änderungen?
+LBL_AUD_PHONE_DE_CHANGE_DATE,DE - Telefon geändert am
+LBL_AUD_EMAIL_DE_CHANGE_DATE,DE - E-Mail geändert am
+LBL_AUD_ADDRESS_DE_CHANGE_DATE,DE - Post geändert am
+LBL_AUD_PENDING_UPDATE_MSG,Es gibt noch ausstehende Änderungen zum Kunden
+LBL_AUD_RECYCLE,In Papierkorb verschieben
+LBL_AUD_UNDO_RECYCLE,Papierkorb aufheben
+LBL_AUD_CONTACTS_RECYCLE,Papierkorb
+LBL_AUD_CONTACT_CONVERT_TO_COMPANY_FLAG,Aus Privatperson Firmenkunde erstellen
+LBL_AUD_CONTACT_CONVERT_TO_COMPANY_CONTACTID,Firmenkunde wurde aus Kunden erstellt
+LBL_AUD_NEXT_BIRTHDAY_DAYS,Tage
+LBL_AUD_NEXT_BIRTHDAY_TODAY,Heute
+LBL_AUD_SET_PHRASE_DEFAULT_VALUE,Sehr geehrte Damen und Herren
+LBL_AUD_ACTION_CONTAINERS,Kampagnen
+LBL_AUD_ACTION,Aktionen
+LBL_RECORDVIEW_PANEL2,Sperrung
+LBL_RECORDVIEW_PANEL3,Datenschutzrechtliche Einwilligungserklärung
+LBL_RECORDVIEW_PANEL_history,DE Address
+LBL_CONVERT_TO_COMPANY,Aus Privatkunden Firmenkunden erstellen
+LBL_CONVERT_TO_COMPANY_SUCCESS_MESSAGE,Der Privatkunde zu einem Firmenkunde erfolgreich erstellt
+LBL_AUD_HAS_SEND_TO_EVA_FLAG,Wurde an Eva gesendet?
+LBL_AUD_EVA_ERROR_MESSAGE,Eva Fehlermeldung
+LBL_AUD_EVA_LEAD_ID,Eva Lead ID
+LBL_RECYCEL_BIN_CONFIRMATION_TITLE,Bewegen Sie den Papierkorb ?
+LBL_RECYCEL_BIN_CONFIRMATION_SINGLE_TEXT,Do you want to move the Contact to Recycle Bin and delete all it's associcated records?
+LBL_RECYCEL_BIN_CONFIRMATION_MULTI_TEXT,Sie sind im Begriff {count} Kunden gleichzeitig zu löschen. Es ist möglich, dass einige Kunden in Aktionen und/oder Kampagnen eingemeldet sind. Diese würden dann sofort und unwiderruflich ausgemeldet werden. Wollen sie fortfahren?
+LBL_AUD_ASSISTANCE_STATUS_DD,Betreuungsstatus
+LBL_UNABLE_TO_FIND_CUSTOMER,Kann nicht Kunden zu finden
+LBL_AUD_BIRTHDAY_MONTH,Geburtstagsmonat
+LBL_AUD_BIRTHDAY_DAY,Geburtstags Tages
+LBL_ERROR_NOT_MATCHED_FILTER_CRITERIA,Änderung via UI. Die Änderung kann zu einer Ausmeldung aus einer Aktion und/oder Kampagnen. Die Entscheidung liegt jedoch beim Benutzer selbst.
+LBL_CHECKOUT,Ausmelden
+LBL_CANNOT_RECYCLE_TXT,Sie sind nicht als Berater diesem Kunden zugeordnet und somit ist ein Löschen ausgeschlossen.
+LBL_RECYCLE_CONTACT_ACTIONS_DESCRIPTION,Durch das Verschieben des Kunden in den Papierkorb würde eine automatische Ausmeldung aus den genannten Aktionen und Strecken erfolgen. Dieser Vorgang kann nicht rückgänging gemacht werden.
+<br> <b>Sind Sie sicher, dass Sie den Kunden in den Papierkorb verschieben möchten?</b>
+LBL_RECYCLE_CONTACT_ACTIONS,Beteiligte Aktionen oder Kampagnen
+LBL_REGISTERED_ACTIONS,Beteiligte Aktionen
+LBL_REGISTERED_ACTION_CONTAINERS,Beteiligte Kampagnen
+LBL_AFFECTED_ACTIONS_ACTION_CONTAINERS,Betroffene Aktionen und Kampagnen
+LBL_NO_FILTER_MISMATCH_TXT,Die Änderung führte zu keiner Ausmeldung aus einer Aktion und/oder Kampagnen.
+LBL_AUD_NAME_SUFFIX,Namenszusatz
+LBL_AUD_MIDDLE_NAME,Mittlerer Name; zweiter Vorname
+LBL_AUD_PO_BOX,Postfach
+LBL_AUD_CUSTOMER_DATA_DISCLOSURE,Kundendatenweitergabe-Kennzeichen
+LBL_AUD_CUSTOMER_CODE_EXTERN,Kennzeichen externe Kundennummer
+LBL_AUD_BIRTH_YEAR,Geburtsjahr
+LBL_TEAM_SET_ID,Team Set ID
+LBL_FAVORITE,Favoriten
+LBL_JGW_FLAG,Fahrzeuge - jGW?
+LBL_ASG_FLAG,Fahrzeuge - ASG?
+LBL_ADDRESS_DE_CHANGED_BY,DE - Post geändert von
+LBL_PHN_DE_CHANGED_BY,DE - Telefon geändert von
+LBL_EMAIL_DE_CHANGED_BY,DE - E-Mail geändert von
+LBL_AUD_PRIMARY_ADDRESS,Hauptadresse
+LBL_RECORDVIEW_PANEL_HISTORY,DE
+LBL_AUD_DE_RESOLUTION_TYPE_DD,DE Auflösungsdefinition
+LBL_AUD_CONTACT_TO_CARS_LBL_NAME,Kunde Fahrzeuge Beziehung - Name
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_CONTACT_DEALER_ID,Kunde Fahrzeuge Beziehung - Kunden Partner ID
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_CONTACT_ID,Kunde Fahrzeuge Beziehung - Kunde
+LBL_AUD_CONTACT_TO_CARS_LBL_CONTACTS_AUD_CONTACT_TO_CARS_ID,Kunde Fahrzeuge Beziehung - Contacts ID
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_CAR_ID,Kunde Fahrzeuge Beziehung - Fahrzeug
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_CAR_ID_AUD_CARS_ID,Kunde Fahrzeuge Beziehung - Car ID
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_AKTIV_INACTIVE_DD,Kunde Fahrzeuge Beziehung - Aktiv/Inaktiv
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_SOURCE,Kunde Fahrzeuge Beziehung - Quelle
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_BUYING_DATE,Kunde Fahrzeuge Beziehung - Kaufdatum
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_VIN,Kunde Fahrzeuge Beziehung - FIN
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_COMMISSION_NUMBER_NEWADA,Kunde Fahrzeuge Beziehung - Kommisions - nummer
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_REGISTRATION_DATE,Kunde Fahrzeuge Beziehung - EZ-Datum
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_DELIVERY_LAST_CONTACT_DATE,Kunde Fahrzeuge Beziehung - Auslieferung letzter Kunde
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_BONUSRELEVANT_FLAG,Kunde Fahrzeuge Beziehung - Bonusrelevent?
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_NEXT_HU_APPOINTMENT,Kunde Fahrzeuge Beziehung - Nächster HU Termin
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_CAR_STATUS_DD,Kunde Fahrzeuge Beziehung - Fahrzeugstatus
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_UNIQUE_FLAG,Kunde Fahrzeuge Beziehung - Eindeutig?
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_RELATION_STATUS,Kunde Fahrzeuge Beziehung - Beziehungsstatus
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_MANUFACTURER,Kunde Fahrzeuge Beziehung - Hersteller
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_MODEL_LINE,Kunde Fahrzeuge Beziehung - Modellreiehe
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_MODEL_DERIVATIVE,Kunde Fahrzeuge Beziehung - Modell/Derivat
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_MODEL_DERIVATIVE_GEARBOX,Kunde Fahrzeuge Beziehung - Modell mit Motorisierung und Getriebe
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_NEWADA,Kunde Fahrzeuge Beziehung - Schlüssel für NeWaDa
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_DSMARIAV,Kunde Fahrzeuge Beziehung - Schlüssel für DSMariaV
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_KEYTOOLS,Kunde Fahrzeuge Beziehung - Schlüssel für KeyTools
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_KUBA,Kunde Fahrzeuge Beziehung - Schlüssel für KUBA
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_EVA,Kunde Fahrzeuge Beziehung - Schlüssel für EVA
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_VWFSAG,Kunde Fahrzeuge Beziehung - Schlüssel für VW FS AG
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_KEY_AGIS,Kunde Fahrzeuge Beziehung - Schlüssel für AGIS
+LBL_AUD_CONTACT_TO_CARS_LBL_TEAMS,Kunde Fahrzeuge Beziehung - Teams
+LBL_AUD_CONTACT_TO_CARS_AUD_DEALER_ID,Kunde Fahrzeuge Beziehung - Dealer ID
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_DEALER_NAME,Kunde Fahrzeuge Beziehung - Partner
+LBL_AUD_CONTACT_TO_CARS_LBL_AUD_LICENSE_PLATE,Kunde Fahrzeuge Beziehung - kennzeichen
+LBL_AUD_CARS_LBL_NAME,Fahrzeuge - Fahrzeug
+LBL_AUD_CARS_LBL_AUD_BNR,Fahrzeuge - BNR
+LBL_AUD_CARS_LBL_AUD_CAR_STATUS_DD,Fahrzeuge - Fahrzeugstatus
+LBL_AUD_CARS_LBL_AUD_CAR_STATUS_META_DD,Fahrzeuge - Fahrzeugstatus Metadaten
+LBL_AUD_CARS_LBL_AUD_COMMISSION_NUMBER_NEWADA,Fahrzeuge - Kommissions-Nr. (NeWaDa)
+LBL_AUD_CARS_LBL_AUD_COMMISSION_YEAR,Fahrzeuge - Kommissions-Jahr
+LBL_AUD_CARS_LBL_AUD_VIN,Fahrzeuge - Fahrgestellnummer
+LBL_AUD_CARS_LBL_AUD_BONUS_RECEIVED_FLAG,Fahrzeuge - Bonus gewährt
+LBL_AUD_CARS_LBL_AUD_BONUSRELEVANT_FLAG,Fahrzeuge - Bonusrelevanz
+LBL_AUD_CARS_LBL_AUD_BONUSRELEVANT_FROM,Fahrzeuge - Bonusrelevant von
+LBL_AUD_CARS_LBL_AUD_BONUSRELEVANT_ICON,Fahrzeuge - Bonusrelevanz-Icon
+LBL_AUD_CARS_LBL_AUD_BONUSRELEVANT_UNTIL,Fahrzeuge - Bonusrelevant bis
+LBL_AUD_CARS_LBL_AUD_RECEIPT_TYPE,Fahrzeuge - Beleg Art
+LBL_AUD_CARS_LBL_AUD_RECEIPT_NUMBER,Fahrzeuge - Beleg Nummer
+LBL_AUD_CARS_LBL_AUD_CANCELLATION_RECEIPT_NUMBE,Fahrzeuge - Storno Beleg Nummer
+LBL_AUD_CARS_LBL_AUD_DELIVERY_DATE,Fahrzeuge - Auslieferungsdatum
+LBL_AUD_CARS_LBL_AUD_DELIVERY_LAST_CONTACT_DATE,Fahrzeuge - Auslieferungsdatum letzter Kunde
+LBL_AUD_CARS_LBL_AUD_RESELLER_ASSIGNMENT_DATE,Fahrzeuge - Wiederverkäufer-Zuordnungsdatums
+LBL_AUD_CARS_LBL_AUD_REBOOK_FLAG,Fahrzeuge - Ist umgebucht
+LBL_AUD_CARS_LBL_AUD_SOLD_TO_RESELLER_FLAG,Fahrzeuge - An Wiederverkäufer veräußert
+LBL_AUD_CARS_LBL_AUD_COLOR_CODE,Fahrzeuge - Farbcode
+LBL_AUD_CARS_LBL_AUD_DETAILS,Fahrzeuge - Details
+LBL_AUD_CARS_LBL_AUD_EQUIPMENT,Fahrzeuge - Ausstattung
+LBL_AUD_CARS_LBL_AUD_EXTEND_GUARANTEE_FLAG,Fahrzeuge - ASG
+LBL_AUD_CARS_LBL_AUD_GW_PLUS_FLAG,Fahrzeuge - GW:plus
+LBL_AUD_CARS_LBL_AUD_KILOMETER,Fahrzeuge - KM-Stand
+LBL_AUD_CARS_LBL_AUD_LAND_ISO,Fahrzeuge - Land
+LBL_AUD_CARS_LBL_AUD_MODEL_YEAR,Fahrzeuge - Modelljahr
+LBL_AUD_CARS_LBL_AUD_NEXT_HU_APPOINTMENT,Fahrzeuge - Nächster HU Termin
+LBL_AUD_CARS_LBL_AUD_ORIGIN,Fahrzeuge - Herkunft
+LBL_AUD_CARS_LBL_AUD_PASSENGER,Fahrzeuge - Fahrgast
+LBL_AUD_CARS_LBL_AUD_PRICE,Fahrzeuge - Verkaufspreis
+LBL_AUD_CARS_LBL_AUD_REGISTRATION_DATE,Fahrzeuge - Erstzulassung
+LBL_AUD_CARS_LBL_AUD_VK,Fahrzeuge - VK
+LBL_AUD_CARS_LBL_AUD_DATE_UPDATE,Fahrzeuge - Aktualisierung
+LBL_AUD_CARS_LBL_AUD_SOURCE,Fahrzeuge - Quelle
+LBL_AUD_CARS_LBL_AUD_ENDCUSTOMER_RESELL_DATE,Fahrzeuge - Endkundenbonus-Verkaufsdatum
+LBL_AUD_CARS_LBL_ASG_BUYING_DATE,Fahrzeuge - AGIS-Kaufdatum
+LBL_AUD_CARS_LBL_ASG_END_DATE,Fahrzeuge - ASG-Ende
+LBL_AUD_CARS_LBL_ASG_START_DATE,Fahrzeuge - ASG-Start
+LBL_AUD_CARS_LBL_JGW_FLAG,Fahrzeuge - Junger Gebrauchtwagen
+LBL_AUD_CARS_LBL_ASG_FLAG,Fahrzeuge - ASG
+LBL_AUD_CARS_LBL_AUD_MANUFACTURER,Fahrzeuge - Hersteller
+LBL_AUD_CARS_LBL_AUD_MODEL_LINE,Fahrzeuge - Modellreiehe
+LBL_AUD_CARS_LBL_AUD_MODEL_DERIVATIVE,Fahrzeuge - Modell/Derivat
+LBL_AUD_CARS_LBL_AUD_MODEL_DERIVATIVE_GEARBOX,Fahrzeuge - Modell mit Motorisierung und Getriebe
+LBL_AUD_CARS_LBL_AUD_KEY_NEWADA,Fahrzeuge - Schlüssel für NeWaDa
+LBL_AUD_CARS_LBL_AUD_KEY_DSMARIAV,Fahrzeuge - Schlüssel für DSMariaV
+LBL_AUD_CARS_LBL_AUD_KEY_KEYTOOLS,Fahrzeuge - Schlüssel für KeyTools
+LBL_AUD_CARS_LBL_AUD_KEY_KUBA,Fahrzeuge - Schlüssel für KUBA
+LBL_AUD_CARS_LBL_AUD_KEY_EVA,Fahrzeuge - Schlüssel für EVA
+LBL_AUD_CARS_LBL_AUD_KEY_VWFSAG,Fahrzeuge - Schlüssel für VW FS AG
+LBL_AUD_CARS_LBL_AUD_KEY_AGIS,Fahrzeuge - Schlüssel für AGIS
+LBL_AUD_CARS_LBL_TEAMS,Fahrzeuge - Teams
+LBL_AUD_CARS_LBL_AUD_CARS_AUD_CAR_MAINTENANCE_MGMT_ID,Fahrzeuge - Auto Onderhoud Magmt ID
+LBL_AUD_CARS_LBL_AUD_CARS_AUD_CAR_MAINTENANCE_MGMT_NAME,Fahrzeuge - Wähle Modell
+LBL_AUD_CARS_AUD_DEALER_ID,Fahrzeuge - Dealer ID
+LBL_AUD_CARS_LBL_AUD_DEALER_NAME,Fahrzeuge - Partner
+LBL_AUD_CARS_LBL_AUD_DEALER_TO_CAR_STATUS_DD,Fahrzeuge - Fahrzeugstatus aus Partnersicht
+LBL_AUD_CARS_LBL_AUD_LICENSE_PLATE,Fahrzeuge - Amtl. Kennzeichen
+LBL_AUD_CARS_LBL_AUD_NEXT_HU_APPOINTMENT_IN_DAYS,Fahrzeuge - Nächster HU Termin in Tagen
+LBL_AUD_CARS_LBL_AUD_FINANCING_TYPE,Fahrzeuge - Finanzierungsart
+LBL_AUD_CARS_LBL_AUD_ORDER_ENTRY_DATE,Fahrzeuge - Auftragseingangsdatum
+LBL_AUD_CARS_LBL_AUD_PRODUCTION_WEEK,Fahrzeuge - Produktionswoche
+LBL_AUD_CARS_LBL_AUD_SALES_TAX_INDICATOR,Fahrzeuge - Mehrwertsteuer
+LBL_AUD_CARS_LBL_AUD_SELLER_NUMBER,Fahrzeuge - Verkäufernummer
+LBL_AUD_CONTACT_TYPE,Kundentyp
+LBL_AUD_ICON_TYPE,icon_typ
+LBL_AUD_TITEL,Titel
+LBL_AUD_ADEL,Adel
+LBL_AUD_JOB,Beruf
+LBL_AUD_JOB_TITLE,Berufsbezeichnung
+LBL_AUD_JOB_POSITION,Position im Beruf
+LBL_AUD_SET_PHRASE,Floskel
+LBL_AUD_CATEGORY_OF_INTEREST,Interessentenkategorie
+LBL_AUD_REASON_FOR_BLOCKING,Sperrgrund
+LBL_AUD_REASON_FOR_BLOCKING_NOTE,Notiz Sperrung
+LBL_AUD_REASON_FOR_BLOCKING_DATE,Datum Sperrung
+LBL_AUD_PHONE_DE_FLAG,DE - Telefon
+LBL_AUD_EMAIL_DE_FLAG,DE - E-Mail
+LBL_AUD_ADDRESS_DE_FLAG,DE - Post
+LBL_AUD_REASON_FOR_BLOCKING_SOURCE,Quelle Sperrung
+LBL_AUD_HOMEPAGE,Homepage
+LBL_AUD_NEW_CAR_USER_ID,Berater Neuwagen
+LBL_AUD_SERVICE_USER_ID,Berater Service/Zubehör
+LBL_AUD_USED_CAR_USER_ID,Berater Gebrauchtwagen
+LBL_AUD_REGISTRATION_BALANCE_COUNTER,Einmeldeguthabenzähler
+LBL_AUD_REGISTRATION_BALANCE_YEAR_COUNTER,Einmeldeguthabenzähler (Jahr)
+LBL_AUD_DMS_CONTACT_NUMBER,DMS Kundennummer
+LBL_AUD_MEMBERSHIP_NUMBER,Mitgliedsnummer
+LBL_AUD_MEMBERSHIP_NUMBER_VALID_FROM,Mitgliedsnummer (gültig von)
+LBL_AUD_MEMBERSHIP_NUMBER_VALID_UNTIL,Mitgliedsnummer (gültig bis)
+LBL_AUD_RECYCEL_BIN_FLAG,Im Papierkorb
+LBL_AUD_COMPANY_1,Firma
+LBL_AUD_COMPANY_2,Firma 2
+LBL_EMAIL_UPDATE,E-Mail Update Datum
+LBL_ADDRESS_UPDATED,Adressen Update Datum
+LBL_PHONE_UPDATED,Telefon Update Datum
+LBL_DATE_UPDATED,Datensatz Update Datum
+LBL_UPDATEBY_INTERFACE,Update Interface
+LBL_AUD_KOMMISSION_NR,Kommissionsnummer (NeWaDa)
+LBL_AUD_KOMMISSION_YEAR,Kommissionsjahr (NeWaDa)
+LBL_EXPORT_UPDATES,Aktualisierungen exportieren
+LBL_CONTACTS_EXPORT_START_DATE,Export Startdatum
+LBL_CONTACTS_EXPORT_END_DATE,Export Enddatum
+LBL_AUD_HAS_PRIM_CONTACT_FLAG,Ansprechpartner vorhanden?
+LBL_AUD_COUNTER_REGISTRATION_BALANCE_RESET,Zähler Einmeldelimit zurücksetzten
+LBL_AUD_BLOCK_UNBLOCK_CONTACT,Sperren/Entsperren
+LBL_AUD_CONTACT_BLOCKED_FLAG,Kunde gesperrt
+LBL_AUD_REASON_FOR_UNBLOCKING_DA,Datum Entsperrung
+LBL_BLOCK_UNBLOCK_WARNING,Kunde ist bereits gesperrt. Um die Sperrung aufzuheben, mit "OK" fortfahren.
+LBL_DOB_ERROR,Das Geburtsdatum kann nicht in der Zukunft liegen
+LBL_AUD_EMAIL_MAILING_CHANGE_DATE,DE-Kennung (Email Newsletter) geändert am
+LBL_AUD_EMAIL_MAILING_DE_CHANGED_BY,DE-Kennung (Email Newsletter) geändert von
+LBL_AUD_EMAIL_MAILING_DE_FLAG,Angemeldet am Händler-Newsletter
+LBL_AUD_DE_TO_BE_CIRCULATED_FLAG,DE-Weitergabe
+LBL_AUD_CORPORATE_CLIENTS,Firmenkunden
+LBL_AUD_PRIVATE_CLIENTS,Kunden
+LBL_CONTACTS_USERS_EMAIL_DE_CHANGED_BY,DE - E-Mail geändert von
+LBL_CONTACTS_USERS_ADDRESS_DE_CHANGED_BY,DE - Post geändert von
+LBL_CONTACTS_CONTACTS_AUD_CONTACT_CONVERT_TO_COMPANY_CONTACTNAME,Firmenkunde wurde aus Kunden erstellt
+LBL_CONTACTS_USERS_AUD_NEW_CAR_USER_NAME,Berater Neuwagen
+LBL_CONTACTS_USERS_AUD_EMAIL_MAILING_DE_CHANGED_BY_NAME,DE-Kennung (Email Newsletter) geändert von
+LBL_CONTACTS_USERS_PHONE_DE_CHANGED_BY,DE - Telefon geändert von
+LBL_CONTACTS_USERS_AUD_USED_CAR_USER_NAME,Berater Gebrauchtwagen
+LBL_CONTACTS_USERS_AUD_SERVICE_USER_NAME,Berater Service/Zubehör
+LBL_AUD_QUESTIONNAIRE_ANSWER_CONTACTS_CONTACT_NAME,Kunde
+LBL_AUD_REGISTERED_CONTACT_CONTACTS_CONTACT_NAME,Kunden ID
+LBL_AUD_WBK_STAGING_CONTACTS_AUD_CONTACT_NAME,
+LBL_AUD_STATISTICS_EMAILOPENER_CONTACTS_AUD_CONTACT_NAME,Kunde
+LBL_AUD_STATISTICS_LINKTRACKING_CONTACTS_AUD_CONTACT_NAME,Kunde
+LBL_AUD_DMARIAV_PRIMARY_CUSTOMER_GROUP,Stelle der Abnehmergruppe
+LBL_AUD_DMARIAV_SKR51_CUSTOMER_GROUP,Abnehmergruppe des SKR51
+LBL_CONTACTS_AUD_QUESTIONNAIRE_1_FROM_CONTACTS_TITLE,Fragebogen                                                                     
+LBL_CONTACTS_AUD_QUESTIONNAIRE_1_FROM_AUD_QUESTIONNAIRE_TITLE,Fragebogen
+LBL_CONTACTS_AUD_CONTACT_TO_CARS_FROM_CONTACTS_TITLE,Kunde Fahrzeuge Beziehung
+LBL_CONTACTS_AUD_CONTACT_TO_CARS_FROM_AUD_CONTACT_TO_CARS_TITLE,Kunde-Fahrzeug-Beziehung
+LBL_AUD_DOCUMENTS_SUBPANEL,Dokumente
+LBL_AUD_CAR_INTEREST_CONTACTS_FROM_CONTACTS_TITLE,Fahrzeuginteressen
+LBL_AUD_CAR_INTEREST_CONTACTS_FROM_AUD_CAR_INTEREST_TITLE,Fahrzeuginteressen
+LBL_AUD_QUESTIONNAIRE_ANSWER_CON_CONTACTS_FROM_CONTACTS_TITLE,Responsen
+LBL_AUD_QUESTIONNAIRE_ANSWER_CON_CONTACTS_FROM_AUD_QUESTIONNAIRE_ANSWER_CON_TITLE,Responsen
+LBL_CONTACTS_TASKS_ACTIVITIES,Aufgaben und Aktivitäten
+LBL_UNIQUE_INT_CONVERTED,Eindeutige Nummer (prefixed)
+LBL_AUD_PHONE_MOBILE_PRIVATE,Telefon Mobil (Privat)
+LBL_AUD_PRIMARY_COMPANY_FLAG,Primäre Firma
+LBL_ERR_PRIMARY_COMPANY_ALREADY,Primäre Firma bereits zugewiesen
+LBL_AUD_HDL_NUMBER,HDL Betriebsnummer
+LBL_AUD_CON_BAL_COUNTER_LOG_COTACTS_TITLE,Guthabentransaktionen
+LBL_AUD_CON_BAL_COUNTER_LOG_SUBPANEL_TITLE,Guthabentransaktionen
+LBL_USED_CARS_FOR_CONTACTS_FILTER,Adressen ohne Beraterzuordnung (Gebrauchtwagen)
+LBL_SERVICE_FOR_CONTACTS_FILTER,Adressen ohne Beraterzuordnung (Service)
+LBL_NEW_CARS_FOR_CONTACTS_FILTER,Adressen ohne Beraterzuordnung (Neuwagen)
+LBL_BIRTHDAY,Geburtstag
+LBL_EXPORT,Exportieren (csv)
+LBL_RECYCEL_BIN_CONFIRMATION_TEXT,Möchten Sie den Kontakt zu bewegen, den Papierkorb und löschte alle seine zugehörigen Datensätze?

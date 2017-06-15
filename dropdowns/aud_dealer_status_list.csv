@@ -1,0 +1,23 @@
+HS,Händler mit Service
+HC,Händler mit Service-Subcontract
+HN,Händler ohne Servicevertrag
+WS,Nur Service Partner
+WV,Servicepartner mit Vermittlung
+NA,Reine Auslieferungsstelle
+NB,Verkaufs- und Auslieferungsstelle
+ND,Reine Verkaufsstelle
+NV,Vermittler ohne Servicevertrag
+US,Gebrauchtwagenzentrum mit Service
+UC,Gebrauchtwagenzentrum mit Service Subcontract
+NK,Zweigbetrieb "Karosserie & Lack" (K&L)
+HVZ,Vertriebszentrum
+HO,Neufahrzeug- Verkauf und OT-Vertrag (kein Service)
+OV,OT-Vertrag und ständiger Neufahrzeug-Vermittler
+OX,Originalteile Partner mit angeschlossene freie WS
+OO,Originalteile Partner ohne angeschlossene freie WS
+NW,Hersteller-/Importeursinterne (KD)-Werkstatt
+NN,/ - kein Vertrag
+AK,Konsignationsvertrag
+AD,Direktliefervertrag
+AB,Konsignations- und Direktliefervertrag
+UV,Gebrauchtwagen Verwerter

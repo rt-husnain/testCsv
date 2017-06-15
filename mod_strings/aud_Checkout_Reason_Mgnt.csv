@@ -1,0 +1,53 @@
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von:
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von:
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Ausmeldegrund Beschreibung
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_LIST_FORM_TITLE,Ausmeldegrundmanagement Liste
+LBL_MODULE_NAME,Ausmeldegrundmanagement
+LBL_MODULE_TITLE,Ausmeldegrundmanagement
+LBL_MODULE_NAME_SINGULAR,Ausmeldegrundmanagement
+LBL_HOMEPAGE_TITLE,Mein Ausmeldegrundmanagement
+LNK_NEW_RECORD,Erstellen Ausmeldegrundmanagement
+LNK_LIST,Ansicht Ausmeldegrundmanagement
+LNK_IMPORT_AUD_CHECKOUT_REASON_MGNT,Import Checkout Reason Management
+LBL_SEARCH_FORM_TITLE,Suchen Ausmeldegrundmanagement
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_CHECKOUT_REASON_MGNT_SUBPANEL_TITLE,Checkout Reason Management
+LBL_NEW_FORM_TITLE,Neu Ausmeldegrundmanagement
+LNK_IMPORT_VCARD,Import Checkout Reason Management vCard
+LBL_IMPORT,Import Checkout Reason Management
+LBL_IMPORT_VCARDTEXT,Automatically create a new Checkout Reason Management record by importing a vCard from your file system.
+LBL_AUD_CHECKOUT_REASON,Ausmeldegrund
+LBL_AUD_USE_IN_ACTION_FLAG,Für Aktionen verwenden?
+LBL_AUD_USE_IN_ACTION_CONTAINER_FL,Für Strecken verwenden?
+LBL_AUD_AUTOMATIC_CHECKOUT_FLAG,Automatische Ausmeldung?
+LBL_UNREGISTER_ACTION_CONTAINER_FILTER,Ausmeldegrundmanagement
+LBL_REMOVE_PARTICIPATION,Teilnahmebeendigung
+LBL_REMOVE_PARTICIPATION_FILTER,Teilnahme zurückziehen
+LBL_CHECKOUT_REASON_TITLE,Verfügbar Ausmeldegründe
+LBL_AUD_REGISTERED_CONTACT_AUD_CHECKOUT_REASON_MGNT_AUD_CHECKOUT_REASON_MGNT_NAME,Ausmeldegrund
+LNK_IMPORT_AUD_CARS,Import Ausmeldegrundmanagement
+LBL_AUD_CARS_SUBPANEL_TITLE,Ausmeldegrundmanagement

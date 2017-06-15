@@ -1,0 +1,48 @@
+LBL_ASSIGNED_TO_ID,Zugewiesene BenutzerID
+LBL_ASSIGNED_TO_NAME,Zugewiesen an
+LBL_TEAM,Team
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team ID
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von ID:
+LBL_DOC_OWNER,Dokument Eigentümer
+LBL_USER_FAVORITES,Benutzerfavoriten
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Gelöscht
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer:
+LBL_MODIFIED_USER,Geändert von
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_LIST_FORM_TITLE,Kunde Fahrzeuge Beziehungs Management Liste
+LBL_MODULE_NAME,Kunde Fahrzeuge Beziehungs Management
+LBL_MODULE_TITLE,Kunde Fahrzeuge Beziehungs Management
+LBL_MODULE_NAME_SINGULAR,Kunde Fahrzeuge Beziehungs Management
+LBL_HOMEPAGE_TITLE,Mein Kunde Fahrzeuge Beziehungs Management
+LNK_NEW_RECORD,Erstellen Kunde Fahrzeuge Beziehungs Management
+LNK_LIST,Ansicht Kunde Fahrzeuge Beziehungs Management
+LNK_IMPORT_AUD_CONTACT_TO_CAR_REL_MGNT,Import Kunde Fahrzeuge Beziehungs Management
+LBL_SEARCH_FORM_TITLE,Suchen Kunde Fahrzeuge Beziehungs Management
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_CONTACT_TO_CAR_REL_MGNT_SUBPANEL_TITLE,Kunde Fahrzeuge Beziehungs Management
+LBL_NEW_FORM_TITLE,Neu Kunde Fahrzeuge Beziehungs Management
+LNK_IMPORT_VCARD,Import Kunde Fahrzeuge Beziehungs Management vCard
+LBL_IMPORT,Import Kunde Fahrzeuge Beziehungs Management
+LBL_IMPORT_VCARDTEXT,Automatically create a new Kunde Fahrzeuge Beziehungs Management record by importing a vCard from your file system.
+LBL_RELATION_UNIQUE_DD,Beziehungsgruppeneindeutig?
+LBL_CUSTOMER_GROUP_UNIQUE_DD,Kundeneindeutig?
+LBL_RELATION_STATUS_DD,Beziehungsstatus
+LBL_AUD_RELATION_CAR_UNIQUE_DD,Beziehungsgruppen- und fahrzeugeindeutig?
+LBL_MAINTENANCE_TYPE,Automatische oder halbautomatische Pflege?
+LBL_AUD_CONTACT_TO_CARS_AUD_CONTACT_TO_CAR_REL_MGNT_AUD_RELATION_STATUS_DD,Beziehungsstatus

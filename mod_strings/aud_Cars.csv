@@ -1,0 +1,146 @@
+LBL_ASSIGNED_TO_ID,Zugewiesen an:
+LBL_ASSIGNED_TO_NAME,Zugewiesen an:
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von:
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von:
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Fahrzeug
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_LIST_FORM_TITLE,Fahrzeuge Liste
+LBL_MODULE_NAME,Fahrzeuge
+LBL_MODULE_TITLE,Fahrzeuge
+LBL_MODULE_NAME_SINGULAR,Fahrzeuge
+LBL_HOMEPAGE_TITLE,Mein Fahrzeuge
+LNK_NEW_RECORD,Erstellen Fahrzeuge
+LNK_LIST,Ansicht Fahrzeuge
+LNK_IMPORT_AUD_CARS,Import Fahrzeuge
+LBL_SEARCH_FORM_TITLE,Suchen Fahrzeuge
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_CARS_SUBPANEL_TITLE,Fahrzeuge
+LBL_NEW_FORM_TITLE,Neu Fahrzeuge
+LNK_IMPORT_VCARD,Import Fahrzeuge vFahrzeuged
+LBL_IMPORT,Import Fahrzeuge
+LBL_IMPORT_VCARDTEXT,Automatically create a new Fahrzeuge record by importing a vFahrzeuged from your file system.
+LNK_IMPORT_AUD_AUD_CARS,Import Fahrzeug
+LBL_AUD_AUD_CARS_SUBPANEL_TITLE,Fahrzeuge
+LBL_AUD_BNR,BNR
+LBL_AUD_CAR_STATUS_DD,Fahrzeugstatus
+LBL_AUD_CAR_STATUS_META_DD,Fahrzeugstatus Metadaten
+LBL_AUD_COMMISSION_NUMBER_NEWADA,Kommissions-Nr. (NeWaDa)
+LBL_AUD_COMMISSION_YEAR,Kommissions-Jahr
+LBL_AUD_VIN,Fahrgestellnummer
+LBL_AUD_BONUS_RECEIVED_FLAG,Bonus gewährt
+LBL_AUD_BONUSRELEVANT_FLAG,Bonusrelevanz
+LBL_AUD_BONUSRELEVANT_FROM,Bonusrelevant von
+LBL_AUD_BONUSRELEVANT_ICON,Bonusrelevanz-Icon
+LBL_AUD_BONUSRELEVANT_UNTIL,Bonusrelevant bis
+LBL_AUD_RECEIPT_TYPE,Beleg Art
+LBL_AUD_RECEIPT_NUMBER,Beleg Nummer
+LBL_AUD_CANCELLATION_RECEIPT_NUMBE,Storno Beleg Nummer
+LBL_AUD_DELIVERY_DATE,Auslieferungsdatum
+LBL_AUD_DELIVERY_LAST_CONTACT_DATE,Auslieferungsdatum letzter Kunde
+LBL_REBOOK_FLAG,Umgebucht?
+LBL_AUD_RESELLER_ASSIGNMENT_DATE,Wiederverkäufer-Zuordnungsdatums
+LBL_AUD_REBOOK_FLAG,Ist umgebucht
+LBL_AUD_SOLD_TO_RESELLER_FLAG,An Wiederverkäufer veräußert
+LBL_AUD_COLOR_CODE,Farbcode
+LBL_AUD_DETAILS,Details
+LBL_AUD_EQUIPMENT,Ausstattung
+LBL_AUD_EXTEND_GUARANTEE_FLAG,ASG
+LBL_AUD_GW_PLUS_FLAG,GW:plus
+LBL_AUD_KILOMETER,KM-Stand
+LBL_AUD_LAND_ISO,Land
+LBL_AUD_MODEL_YEAR,Modelljahr
+LBL_AUD_NEXT_HU_APPOINTMENT,Nächster HU Termin
+LBL_AUD_ORIGIN,Herkunft
+LBL_AUD_PASSENGER,Fahrgast
+LBL_CURRENCY,Währung
+LBL_AUD_PRICE,Verkaufspreis
+LBL_AUD_REGISTRATION_DATE,Erstzulassung
+LBL_AUD_VK,VK
+LBL_AUD_DATE_UPDATE,Aktualisierung
+LBL_AUD_SOURCE,Quelle
+LBL_AUD_ENDCUSTOMER_RESELL_DATE,Endkundenbonus-Verkaufsdatum
+LBL_ASG_BUYING_DATE,AGIS-Kaufdatum
+LBL_ASG_END_DATE,ASG-Ende
+LBL_ASG_START_DATE,ASG-Start
+LBL_JGW_FLAG,Junger Gebrauchtwagen
+LBL_ASG_FLAG,ASG
+LBL_RECORD_BODY,Überblick
+LBL_RECORDVIEW_PANEL1,Einzelheiten
+LBL_AUD_MANUFACTURER,Hersteller
+LBL_AUD_MODEL_LINE,Modellreiehe
+LBL_AUD_MODEL_DERIVATIVE,Modell/Derivat
+LBL_AUD_MODEL_DERIVATIVE_GEARBOX,Modell mit Motorisierung und Getriebe
+LBL_AUD_KEY_NEWADA,Schlüssel für NeWaDa
+LBL_AUD_KEY_DSMARIAV,Schlüssel für DSMariaV
+LBL_AUD_KEY_KEYTOOLS,Schlüssel für KeyTools
+LBL_AUD_KEY_KUBA,Schlüssel für KUBA
+LBL_AUD_KEY_EVA,Schlüssel für EVA
+LBL_AUD_KEY_VWFSAG,Schlüssel für VW FS AG
+LBL_AUD_KEY_AGIS,Schlüssel für AGIS
+LBL_BONUSRELEVANT_DATES_ERROR,Sollte größer als Bonusrelevent von
+LBL_ACCEPT_BOOKING_REQ_BUTTON,Umbuchung akzeptieren
+LBL_REFUSE_BOOKING_REQ_BUTTON,Umbuchung ablehnen
+LBL_AUD_RESELL_TO_RESELLER,Weiterveräußerte Fahrzeuge
+LBL_AUD_UNDO_RESELL_TO_RESELLER,Weiterveräußerung an Wiederverkäufer widerrufen
+LBL_AUD_CONTACTS_CUSTOM,Uneindeutige Kunde Fahrzeug Beziehungen
+LBL_AUD_CAR_LABELS,Uneindeutige Kunde Fahrzeug Beziehungen
+LBL_AUD_CARS_CONTACTS_CUSTOM,Kunde Fahrzeuge Beziehung
+LBL_AUD_CAR_TO_CONTACTS_HEADER_LABELS,Kunde Fahrzeuge Beziehung
+LBL_AUD_DEALER_TO_CAR_TITLE,Partner Fahrzeuge Beziehung
+LBL_AUD_CONTACTS_TO_CAR_TITLE,Kunde Fahrzeuge Beziehung
+LBL_AUD_DEALER_TO_CAR_STATUS_DD,Fahrzeugstatus aus Partnersicht
+LBL_DRAWER_CHECKOUT,Ausmelden
+LBL_DRAWER_CANCEL,Abbrechen
+LBL_AUD_LICENSE_PLATE,Amtl. Kennzeichen
+LBL_AUD_CARS_AUD_DEALER_AUD_DEALER_NAME,Partner ID
+LBL_AUD_DEALER_TO_CAR_BOOKING_RE_AUD_CARS_AUD_CAR_NAME,Fahrzeug ID
+LBL_AUD_REGISTERED_CONTACT_AUD_CARS_AUD_CARS_NAME,Fahrzeug ID
+LBL_AUD_WBK_STAGING_AUD_CARS_AUD_CAR_NAME,Fahrzeug ID
+LBL_REBOOK_CAR,Fahrzeug umbuchen
+ERR_REBOOK_CAR_ERROR,Umbuchung nicht möglich. Es bestehen noch aktive Kunde Fahrzeug Beziehungen
+LBL_REBOOK_REQUEST_CONFIRM,Achtung: Sie sind im Begriff das Fahrzeug {{aud_Model_Derivative_Gearbox}}, {{aud_vin}} umzubuchen.
+LBL_AUD_SALES_TAX_INDICATOR,Mehrwertsteuer
+LBL_AUD_DEALER_NAME,Partner
+LBL_AUD_DEALERID_AUD_DEALER_ID,Dealer ID
+AUD_DEALER_ID,Dealer ID
+LBL_PANEL_OTHERS,Sonstiges
+LBL_PANEL_BONUS_INFO,Bonusinfos
+LBL_PANEL_DATA_RECORD_INFO,Datensatzinfos
+LBL_PANEL_BACK_OFFICE,Backoffice
+LNK_CONTACT_TO_CAR_LIST,Kunde Fahrzeug Beziehung
+LBL_CARS_FILTER,Fahrzeuge
+LBL_FORMER_CARS_FILTER,Umgebuchte Fahrzeuge
+LBL_PENDING_CARS_FILTER,Umbuchungsanfragen
+LBL_AUD_DEALER_TO_CAR_FROM_AUD_CARS_TITLE,Fahrzeug wird verwaltet von
+LBL_AUD_CONTACT_TO_CAR_FROM_AUD_CARS_TITLE,Kd.-Fzg.-Beziehung
+LBL_AUD_NEXT_HU_APPOINTMENT_IN_DAYS,Nächster HU Termin in Tagen
+LBL_AUD_ORDER_ENTRY_DATE,Auftragseingangsdatum
+LBL_AUD_FINANCING_TYPE,Finanzierungsart
+LBL_AUD_SELLER_NUMBER,Verkäufernummer
+LBL_AUD_PRODUCTION_WEEK,Produktionswoche
+LBL_PANEL_MODEL_KEYS,Modellschlüssel
+LBL_UNDETERMINED_CONTACT_CAR_RELATIONSHIPS,Uneindeutige Kd.-Fzg.-Beziehung
+LBL_AUD_CARS_AUD_CAR_MAINTENANCE_MGMT_NAME,Wähle Modell
+LBL_AUD_CARS_AUD_CAR_MAINTENANCE_MGMT_ID,Auto Onderhoud Magmt ID
+LBL_AUD_CARS_AUD_CAR_MAINTENANCE_MGMT,Auto Onderhoud Magmt

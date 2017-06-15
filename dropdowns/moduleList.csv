@@ -1,0 +1,145 @@
+Home,Home
+Contacts,Kunden
+Accounts,Firmen
+Opportunities,Verkaufschancen
+Cases,Ticket
+Notes,Notizen
+Calls,Anrufe
+Emails,E-Mails
+Meetings,Meetings
+Tasks,Aufgaben
+Calendar,Kalender
+Leads,Interessenten
+Currencies,Währungen
+Project,Projekt
+Contracts,Verträge
+Quotes,Angebote
+Products,Produkte
+WebLogicHooks,Web Logic Hook
+ProductCategories,Produktkategorien
+ProductTypes,Produkttypen
+ProductTemplates,Produktvorlagen
+Reports,Berichte
+Forecasts,Vorhersagen
+ForecastWorksheets,Prognosen Arbeitsblätter
+ForecastManagerWorksheets,Prognose Manager Arbeitsblatt
+MergeRecords,Zusammengeführte Datensätze
+Quotas,Limits
+Teams,Teams
+TeamNotices,Team Notizen
+Manufacturers,Hersteller
+Activities,Aktivitäten
+Comments,Kommentare
+Subscriptions,Anmeldungen
+Bugs,Fehlerverfolgung
+Feeds,RSS
+iFrames,Mein Portal
+TimePeriods,Zeiträume
+TaxRates,Steuersätze
+ContractTypes,Vertragstypen
+Schedulers,Geplante Aufgaben
+ProjectTask,Projektaufgabe
+Campaigns,Kampagnen
+CampaignLog,Kampagnen Log
+CampaignTrackers,Kampagnen Verfolgung
+Documents,Dokumente
+DocumentRevisions,Dokument Versionen
+Connectors,Konnektoren
+Roles,Rollen
+Notifications,Benachrichtigungen
+Sync,Sync
+ReportMaker,Berichte
+DataSets,Datenformate
+CustomQueries,Individuelle Abfragen
+pmse_Inbox,Prozesse
+pmse_Project,Prozessdefinitionen
+pmse_Business_Rules,Prozess-Geschäftsregeln
+pmse_Emails_Templates,Prozess-E-Mail-Vorlagen
+WorkFlow,Workflow
+EAPM,Externe Konten
+Worksheet,Arbeitsblatt
+Users,Benutzer
+Employees,Mitarbeiter
+Administration,Administration
+ACLRoles,Rollen
+InboundEmail,Eingehende E-Mails
+Releases,Releases
+Prospects,Zielkontakte
+Queues,Warteschlangen
+EmailMarketing,E-Mail Marketing
+EmailTemplates,E-Mail Vorlagen
+SNIP,E-Mail Archivierung
+ProspectLists,Kontaktlisten
+SavedSearch,Gespeicherte Suche
+UpgradeWizard,Aktualisierungs Assistent
+Trackers,Tracker Links
+TrackerPerfs,Tracker Leistung
+TrackerSessions,Tracker Sitzungen
+TrackerQueries,Tracker Abfragen
+FAQ,FAQ
+Newsletters,Newsletter
+SugarFavorites,Favoriten
+PdfManager,PDF Manager
+OAuthKeys,OAuth Verbraucher Keys
+OAuthTokens,OAuth Bon
+Filters,Filter
+UserSignatures,Benutzer Signaturen
+Shippers,Transportunternehmen
+Styleguide,Gestaltungsrichtlinien
+Feedbacks,Rückmeldungen
+Tags,Tags
+Categories,Categories
+Library,Library
+EmailAddresses,Email Address
+Words,Worter
+Sugar_Favorites,Favoriten
+KBDocuments,Wissendatenbank
+KBContents,Benachrichtigung/FAQ
+KBArticles,Knowledge Base Article
+KBContentTemplates,Knowledge Base Template
+EmbeddedFiles,Embedded Files
+aud_Action_Container,Strecke
+aud_Dealer_Participation,Teilnehmende Partner
+aud_Sending_Waves,Versandwellen
+aud_Checkout_Reason_Mgnt,Ausmeldegrundmanagement
+aud_Questionnaire,Fragebogen
+aud_Questionnaire_Answer,Fragebogenantworten
+aud_Action_Container_Element,Streckenelemente
+aud_Dealer_Participation_Ele,Teilnahme Streckenelemente
+aud_Cars,Fahrzeuge
+aud_Dealer_to_Car_Booking_Re,Partner Fahrzeuge Umbuchung
+aud_Car_Interest,Kunde Fahrzeuginteresse Beziehungsmanagements
+aud_Contact_Change_log,Kunden Veränderung Log
+aud_Program,Programme
+aud_Contact_to_Car_Rel_Mgnt,Kunde Fahrzeuge Beziehungs Management
+aud_Additional_Services,Zusatzdienste
+aud_Contact_to_Cars,Kunde Fahrzeuge Beziehung
+aud_Dealer_to_Cars,Partner Fahrzeuge Beziehung
+aud_DE_Address_history,DE Historie
+aud_Actions,Aktionen
+aud_Questionnaire_Questions,Fragebogenfragen
+aud_Marketing_Community,Marketinggemeinschaft
+aud_Group_of_Community,Unternehmensgruppen
+aud_Dealer,Partner
+aud_Registered_Contact,Eingemeldete Kunden
+aud_Action_Container_Mgnt,Streckenverwaltung
+aud_aud_File_Import_History,File Import History
+aud_File_Import_History,File Import History
+aud_Data_Copy_Due_Days,Datenabzugstermine
+aud_Questionnaire_Answer_Con,Beantwortete Fragebogen
+aud_dealer_sample_recipient,Musterempfänger
+aud_Filter_Templates,Filtertemplates verwalten
+aud_WBK_Staging,WBK Staging
+aud_Documents,Dokumente
+aud_Job_Queue,Job queue Übersicht
+aud_Perf_Measurement,Erfolgsmessungen
+aud_con_bal_counter_log,Guthabentransaktionen
+aud_weltherstellerzeiche,Weltherstellerzeichen
+aud_statistics_emailopener,Statistiken - Email geöffnet
+aud_statistics_linktracking,Statistiken - Link tracking
+aud_VWFS_Expiringcontracts,VWFS Verträge
+aud_regCon_selection_history,Kundenlistenerzeugung
+aud_Campaign_File_History,Übersicht der erstellen Kundenlisten
+aud_car_maintenance_mgmt,Pflege von Modelldaten
+aud_tasks_and_activities,Aufgaben und Aktivitäten
+RevenueLineItems,Revenue Line Items

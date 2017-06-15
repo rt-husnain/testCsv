@@ -1,0 +1,140 @@
+LBL_ASSIGNED_TO_ID,Zugewiesene BenutzerID
+LBL_ASSIGNED_TO_NAME,Zugewiesen an
+LBL_TEAM,Team
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team ID
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von ID:
+LBL_DOC_OWNER,Dokument Eigentümer
+LBL_USER_FAVORITES,Benutzerfavoriten
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Gelöscht
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer:
+LBL_MODIFIED_USER,Geändert von
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_LIST_FORM_TITLE,Streckenelemente Liste
+LBL_MODULE_NAME,Streckenelemente
+LBL_MODULE_TITLE,Streckenelemente
+LBL_MODULE_NAME_SINGULAR,Streckenelemente
+LBL_HOMEPAGE_TITLE,Mein Streckenelemente
+LNK_NEW_RECORD,Erstellen Streckenelemente
+LNK_LIST,Ansicht Streckenelemente
+LNK_IMPORT_AUD_ACTION_CONTAINER_ELEMENT,Import Streckenelemente
+LBL_SEARCH_FORM_TITLE,Suchen Streckenelemente
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_ACTION_CONTAINER_ELEMENT_SUBPANEL_TITLE,Streckenelemente
+LBL_NEW_FORM_TITLE,Neu Streckenelemente
+LNK_IMPORT_VCARD,Import Streckenelemente vCard
+LBL_IMPORT,Import Streckenelemente
+LBL_IMPORT_VCARDTEXT,Automatically create a new Streckenelemente record by importing a vCard from your file system.
+LBL_RECORD_BODY,Überblick
+LBL_AUD_HGW_SUPPORTED_FLAG,HGW fähig?
+LBL_INDIVIDUALIZE_IS_BLOCKING_FLAG,Individualisierung erforderlich?
+LBL_AUD_EXTRA_COSTS_CONTACT_EURO,Extrakosten (€)
+LBL_AUD_ACTION_ID,Aktion/Betreuungselement
+LBL_AUD_ACTION_CONAINTER_ID,Strecke
+LBL_AUD_ELEMENT_TYPE_DD,Elementtyp
+LBL_AUD_SAMPLE_SENDING_ALLOWED_FLAG,Musterversand möglich?
+LBL_AUD_EXT_WBK_DEEPLINK,Hyperlink
+LBL_DEALER_PARTICIPATION_ELE_RELATED_TAB,Participation Action Container Elemet
+LBL_DATA_COPY_DUE_DAYS,Datenabzugstermine
+LBL_DATA_COPY_DUE_DAYS_BUTTON,Datenabzugstermine
+LBL_AUD_MAX_HGW_DEALERS,Max Anzahl HGW Mitwerber
+LBL_AUD_CAR_RELATED_CHECKIN_FLAG,Fahrzeugbezogenes Element?
+LBL_PARTICIPATION_HGW_RESPONSIBLE_BUTTON,Teilnahme als HGW-Verantwortlicher
+LBL_ALREADY_HGW_REGISTERED,Nur ein HGW Verantwortlicher kann pro Streckenelement definiert werden
+LBL_SUCCESS_HGW_REGISTERED,Sie haben sich soeben als HGW Verantwortlicher für
+ dieses Streckenelement registriert. Dafür wurde eine neue Strecke {$action_container_name} erzeugt
+LBL_AUD_EXT_WBK_NEWSLETTER_ID,Externe WBK Newsletter ID
+LBL_AUD_EXT_WBK_TEMPLATE_ID,Externe WBK Template ID
+LBL_AUD_EXT_WBK_DIEDAJOB_ID,Externe WBK DieDa Job ID
+LBL_AUD_EXT_WBK_TYPE_DD,Externe WBK Typ
+LBL_AUD_EXT_WBK_JOB_ID,Externe WBK Job ID
+LBL_AUD_EXT_WBK_OLDJOB_ID,Externe WBK old Job ID
+LBL_AUD_EXT_ORGID_CANCELLATION_FLAG,Org ID Storno
+LBL_AUD_EXT_RETURN_ERROR_MESSAGE,Externe Fehlermeldung
+LBL_AUD_EXT_SUCCESS_FLAG,Versand erfolgreich?
+LBL_AUD_QUESTIONNAIRE_ID,Fragebogen
+LBL_PARTICIPATION_CO_HGW_BUTTON,Teilnahme als HGW-Mitwerber
+LBL_HGW_SUPPORTED_FLAG,Dieses Element ist nicht HGW fähig und erlaubt keine Teilnahme als HGW
+ Mitwerber.
+LBL_NO_ELEMENT_FOUND,Sie können sich nicht selber als HGW Mitwerber registieren. Bitte wenden
+ Sie sich an den HGW Verantwortlichen.
+LBL_ALREADY_REGISTERED,Sie sind bereits als HGW
+ Mitwerber registiert.
+LBL_UNDO_PARTICIPATION_BUTTON,Teilnahme als HGW-Mitwerber
+ zurückziehen
+LBL_HGW_SUPPORTED_FLAG_UNDO,Dieses Element ist nicht HGW fähig und somit kann eine Teilnahnme als
+ HGW Mitwerber auch nicht zurückgezogen werden.
+LBL_REGISTRATION_CANCELLED,Ihre Teilnahme wurde erfolgreich zurückgezogen.
+LBL_NO_ELEMENT_FOUND_UNDO,Das System findet keine vorherige Registrierung als HGW Mitwerber. Daher
+ ist ein Rückzug auch nicht möglich bzw. notwendig.
+LBL_EXTRACT_DATA_FOR_WBK,Datenabzug starten
+LBL_NO_ACT_CONT_ELE_ID_SET_ERROR,Action Container Element ID is not set
+LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_REGISTERED_CONTACT_TITLE,Eingemeldete Kunden für Streckenelement
+LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_REGISTERED_CONTACT_LINK,Streckenelement
+LBL_AUD_ACTION_FROM_ACTION_CONTAINER_ELEMENT,Kundenlistenerzeugung
+LBL_CAMPAIGN_FILE_HISTORY_LINK,Übersicht der erstellen Kundenlisten
+LBL_GENERATE_CONTACT_LISTS,Erstellung von Kundenlisten zum Datenabzugstermin
+LBL_AUD_REGCONTACTS_DOWNLOAD_FLAG,Kundenliste exportiert?
+LBL_EMPTY_DCDD_ERROR,Bitte wählen Sie ein Datenabzugstermine
+LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_ACTIONS_AUD_ACTION_NAME,Aktion/Betreuungselement
+LBL_AUD_ACTION_CONTAINER_ELEMENT_USERS_AUD_ORDER_PLACED_BY_NAME,Bestellung ausgeführt durch
+LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_QUESTIONNAIRE_AUD_QUESTIONNAIRE_NAME,Fragebogen
+LBL_AUD_REGISTERED_CONTACT_AUD_ACTION_CONTAINER_ELEMENT_AUD_ACTION_CONTAINER_ELE_NAME,Streckenelement
+LBL_AUD_WBK_STAGING_AUD_ACTION_CONTAINER_ELEMENT_AUD_ACTION_CONTAINER_ELEMENT_NAME,Streckenelement
+LBL_AUD_REGISTER_DEALER_HGW_FILTER_FIX,HGW Teilnahmekriterien für Mitwerber
+LBL_MANAGE_HGW_DEALER_ACCESS_BUTTON,HGW-Teilnahmedefinitionen
+LBL_AUD_ACTION_CONTAINER_ELEMENT_HGW_CONSTELLATION_TITLE,HGW-Konstellation
+LBL_AUD_HGW_INVITE_COUNT,Anzahl HGW Mitwerber
+LBL_SEND_HGW_CONSTELLATION_WBK_BUTTON,HGW-Konstellation an den WBK übertragen
+LBL_UNDO_HGW_PARTICIPATION_BUTTON,Teilnahme als HGW-Verantwortlicher zurückziehen
+LBL_DESCENDING_SORT,Neueste zuerst
+LBL_DATA_COPY_DATE_ASC,Ablaufdatum zuerst
+LBL_RUN_OUT_ACTIONS,abgelaufene Aktionen
+LBL_DAYS_UNTIL_NEXT_COPY_DATE,Nachster Datenabzug in {{content}} Tagen
+LBL_WBK_ICON_TEXT,WBK
+LBL_PARTICIPATE_NOW_BUTTON,Jetzt teilnehmen
+LBL_CUSTOM_BUTTON,Anpassen
+LBL_ACTION_INFO_TITLE,Informationen zur Aktion
+LBL_AUD_REGISTRATION_COSTS_EUR_FOR_CONTACT,Einmeldekosten pro Kunde (€)
+LBL_AUD_DEALER_PARTICIPATION_ELE_AUD_ACTION_CONTAINER_ELEMENT_FROM_AUD_ACTION_CONTAINER_ELEMENT_TITLE,Teilnahme Streckenelemente
+LBL_AUD_DEALER_PARTICIPATION_ELE_AUD_ACTION_CONTAINER_ELEMENT_FROM_AUD_DEALER_PARTICIPATION_ELE_TITLE,Teilnehmende Partner
+LBL_PARTICIPATION_BUTTON,Teilnahme erklären
+LBL_PARTICIPATION_MESSAGE_TXT,Sie haben soeben Ihre Teilnahme an dem Streckenelement {{ACEname}} erklärt.
+LBL_UNDO_PARTICIPATION_BUTTON_NORMAL,Teilnahme zurückziehen
+LBL_AUD_MAX_SAMPLES,Max Anzahl Muster
+LBL_AUD_PREMIUM_ADDRESS_FLAG,Wird Premium Adress angeboten?
+LBL_AUD_DOCUMENTS_SUBPANEL,Dokumente
+LBL_AUD_DOCUMENTS_FROM_AUD_ACTION_CONTAINER_ELEMENT_TITLE,Dokumente
+LBL_CANNOT_ORDER_MORE_SAMPLES,Sie können nur maximal {{aud_max_samples}} Muster bestellen. Ihr Limit wurde erreicht.
+LBL_AUD_ACTION_CONTAINER_ELEMENT_FROM_AUD_DOCUMENTS_TITLE,Streckenelement
+LBL_AUD_ACTION_CONTAINER_ELEMENT_FROM_AUD_DEALER_SAMPLE_RECIPIENT_TITLE,Musterempfänger
+LBL_ACE_PENDING_INVITE,Sie wurden zu dieser Streckenelemente eingeladen
+LBL_AUD_ORDER_PLACED_COUNTER,Anzahl ausgeführter Bestellungen
+LBL_AUD_ORDER_PLACED_BY,Bestellung ausgeführt durch
+LBL_AUD_ORDER_PLACED_AT,Bestellung ausgeführt am
+LBL_AUD_ORDER_PLACED_FLAG,Bestellung ausgeführt?
+LBL_ORDERDETAILS_PANEL,Bestellübersicht
+LBL_ORDER_DETAIL_VIEW,Bestellübersicht
+LBL_SEND_ORDER_TO_WBK,Datenübertragung vorbereiten
+LBL_DATA_COPY_DUES_DATES,Datenabzugstermine
+LBL_ORDER_PLACED_DETAILS,Folgende Bestellinformationen haben wir zum aktuellen Streckenelment im System gefunden.
+LBL_SELECT_DATA_COPY_DATE,Die nächste Datenlieferung / Datenabzug bezieht sich auf nachfolgenden Termin.
+LBL_DATA_COPY_DATE_NOT_SELECTED,Bitte wählen Sie ein Versanddatum aus um vorfahren zu können
+LBL_DATA_COPY_DATE_NOT_FOUND,Es ist kein Versanddatum vorhanden
+LBL_SEND_ORDER_BUTTON,Erneut senden
+LBL_NO_REG_CONT_ID_SET_ERROR,Die Streckenelemente wurde nicht gefunden

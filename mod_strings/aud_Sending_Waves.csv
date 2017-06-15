@@ -1,0 +1,51 @@
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von:
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von:
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_LIST_FORM_TITLE,Versandwellen Liste
+LBL_MODULE_NAME,Versandwellen
+LBL_MODULE_TITLE,Versandwellen
+LBL_MODULE_NAME_SINGULAR,Versandwellen
+LBL_HOMEPAGE_TITLE,Mein Versandwellen
+LNK_NEW_RECORD,Erstellen Versandwellen
+LNK_LIST,Ansicht Versandwellen
+LNK_IMPORT_AUD_SENDING_WAVES,Import Sending Wave
+LBL_SEARCH_FORM_TITLE,Suchen Versandwellen
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_SENDING_WAVES_SUBPANEL_TITLE,Sending Waves
+LBL_NEW_FORM_TITLE,Neu Versandwellen
+LNK_IMPORT_VCARD,Import Sending Wave vCard
+LBL_IMPORT,Import Sending Waves
+LBL_IMPORT_VCARDTEXT,Automatically create a new Sending Wave record by importing a vCard from your file system.
+LBL_AUD_SENDING_WAVE_DATE,Versandwelle
+LBL_AUD_MULTIPLE_CORRESPONDENCE_FL,Mehrfachanschreiben erlaubt?
+LBL_AUD_COUNT_CONTACTS,Anzahl Kunden
+LBL_AUD_ACTION,Aktion
+LBL_AUD_ACTION_FROM_AUD_SENDING_WAVES_TITLE,Aktionen
+LBL_AUD_SENDING_WAVES_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_REGISTERED_CONTACT_AUD_SENDING_WAVES_AUD_SENDING_WAVE_NAME,Versandwellen ID
+LNK_IMPORT_AUD_CARS,Import Versandwellen
+LBL_AUD_CARS_SUBPANEL_TITLE,Versandwellen

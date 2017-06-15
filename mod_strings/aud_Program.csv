@@ -1,0 +1,52 @@
+LBL_ASSIGNED_TO_ID,Zugewiesene BenutzerID
+LBL_ASSIGNED_TO_NAME,Zugewiesen an
+LBL_TEAM,Team
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team ID
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von ID:
+LBL_DOC_OWNER,Dokument Eigentümer
+LBL_USER_FAVORITES,Benutzerfavoriten
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Gelöscht
+LBL_NAME,Titel
+LBL_CREATED_USER,Erstellt von Benutzer:
+LBL_MODIFIED_USER,Geändert von
+LBL_LIST_NAME,Titel
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_LIST_FORM_TITLE,Programme Liste
+LBL_MODULE_NAME,Programme
+LBL_MODULE_TITLE,Programme
+LBL_MODULE_NAME_SINGULAR,Programme
+LBL_HOMEPAGE_TITLE,Mein Programme
+LNK_NEW_RECORD,Erstellen Programme
+LNK_LIST,Ansicht Programs
+LNK_IMPORT_AUD_PROGRAM,Import Programme
+LBL_SEARCH_FORM_TITLE,Suchen Programme
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_PROGRAM_SUBPANEL_TITLE,Programme
+LBL_NEW_FORM_TITLE,Neu Programme
+LNK_IMPORT_VCARD,Import Programme vCard
+LBL_IMPORT,Import Programme
+LBL_IMPORT_VCARDTEXT,Automatically create a new Programme record by importing a vCard from your file system.
+LBL_AUD_PROGRAM_STATUS_DD,Programmstatus
+LBL_RECORD_BODY,Überblick
+LBL_AUD_REGISTRATION_COSTS,Einmeldekosten
+LBL_AUD_PICTURE,Bild
+LNK_ACTION_CONTAINER_LIST,Strecke
+LBL_AUD_ACTION_CONTAINER,Kampagnen
+LNK_ACTION_CONTAINER_MGNT,Streckenverwaltung
+LBL_AUD_DOCUMENTS_SUBPANEL,Dokumente
+LBL_NOTES_AUD_PROGRAM_FROM_AUD_PROGRAM_TITLE,Notizen
+LBL_NOTES_AUD_PROGRAM_FROM_NOTES_TITLE,Notizen

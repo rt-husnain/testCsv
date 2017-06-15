@@ -1,0 +1,50 @@
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Ausgeführt am
+LBL_DATE_MODIFIED,Date Modified
+LBL_MODIFIED,Erstellt von
+LBL_MODIFIED_ID,Erstellt von Id
+LBL_MODIFIED_NAME,Erstellt von Name
+LBL_CREATED,Created By
+LBL_CREATED_ID,Created By Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Erstellt von
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_AUD_TRIGGER_TXT,Ausgeführt durch
+LBL_AUD_BALANCE_COUNTER_BEFORE,Einmeldeguthaben vorher
+LBL_AUD_BALANCE_COUNTER_AFTER,Einmeldeguthaben nachher
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_LIST_FORM_TITLE,Guthabentransaktionen Liste
+LBL_MODULE_NAME,Guthabentransaktionen
+LBL_MODULE_TITLE,Guthabentransaktionen
+LBL_MODULE_NAME_SINGULAR,Guthabentransaktionen
+LBL_HOMEPAGE_TITLE,Mein Guthabentransaktionen
+LNK_NEW_RECORD,Erstellen Guthabentransaktionen
+LNK_LIST,Ansicht Guthabentransaktionen
+LNK_IMPORT_AUD_CONTACT_BALANCER_COUNTER,Import Balance counter transactions Balance counter transaction
+LBL_SEARCH_FORM_TITLE,Suchen Guthabentransaktionen
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_CONTACT_BALANCER_COUNTER_SUBPANEL_TITLE,Guthabentransaktionen
+LBL_NEW_FORM_TITLE,Neu Guthabentransaktionen
+LNK_IMPORT_VCARD,Import Guthabentransaktionen vCard
+LBL_IMPORT,Import Guthabentransaktionen
+LBL_IMPORT_VCARDTEXT,Automatically create a new Balance counter transaction record by importing a vCard from your file system.
+LNK_IMPORT_AUD_CON_BAL_COUNTER_LOG,Import Guthabentransaktionen
+LBL_AUD_CON_BAL_COUNTER_LOG_SUBPANEL_TITLE,Guthabentransaktionen
+LBL_AUD_CON_BAL_COUNTER_LOG_COTACTS_TITLE,Kundes
+LBL_AUD_CONTACT_ID,Kunde ID
+LBL_AUD_CONTACT_NAME,Kunde

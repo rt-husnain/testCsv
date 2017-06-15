@@ -1,0 +1,6 @@
+default,Standard
+seed,Muster
+exempt_domain,Unterdrückungs Liste - nach Domäne
+exempt_address,Unterdrückungs Liste - nach E-Mail Adresse
+exempt,Unterdrückungs Liste - nach ID
+test,Test

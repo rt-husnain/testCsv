@@ -1,0 +1,53 @@
+LBL_ASSIGNED_TO_ID,Zugewiesene BenutzerID
+LBL_ASSIGNED_TO_NAME,Zugewiesen an
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von ID:
+LBL_DOC_OWNER,Dokument Eigentümer
+LBL_USER_FAVORITES,Benutzerfavoriten
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Gelöscht
+LBL_NAME,Kundenlistenerzeugung
+LBL_CREATED_USER,Erstellt von Benutzer:
+LBL_MODIFIED_USER,Geändert von
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_LIST_FORM_TITLE,Kundenlistenerzeugung List
+LBL_MODULE_NAME,Kundenlistenerzeugung
+LBL_MODULE_TITLE,Kundenlistenerzeugung
+LBL_MODULE_NAME_SINGULAR,Kundenlistenerzeugung
+LBL_HOMEPAGE_TITLE,My Kundenlistenerzeugung
+LNK_NEW_RECORD,Create Kundenlistenerzeugung
+LNK_LIST,View Kundenlistenerzeugung
+LNK_IMPORT_AUD_REGCON_SELECTION_HIS,Import Reg Contact List Generating
+LBL_SEARCH_FORM_TITLE,Search Kundenlistenerzeugung
+LBL_HISTORY_SUBPANEL_TITLE,View History
+LBL_ACTIVITIES_SUBPANEL_TITLE,Activity Stream
+LBL_AUD_REGCON_SELECTION_HIS_SUBPANEL_TITLE,Kundenlistenerzeugung
+LBL_NEW_FORM_TITLE,New Kundenlistenerzeugung
+LNK_IMPORT_VCARD,Import Kundenlistenerzeugung vCard
+LBL_IMPORT,Import Kundenlistenerzeugung
+LBL_IMPORT_VCARDTEXT,Automatically create a new Kundenlistenerzeugung record by importing a vCard from your file system.
+LBL_RE_DOWNLOAD_REASON,Grund
+LNK_IMPORT_AUD_REGCON_SELECTION_HISTORY,Import Kundenlistenerzeugung
+LBL_AUD_REGCON_SELECTION_HISTORY_SUBPANEL_TITLE,Reg Contact List Generating
+LBL_ACTION_NAME,Aktion
+LBL_ACTION_ID,Aktion id
+LBL_ACTION_CONTAINER_ELEMENT_NAME,Streckenelement
+LBL_ACTION_CONTAINER_ELEMENT_ID,Streckenelement id
+LBL_DATA_COPY_DUE_DATE_NAME,Datenabzugstermin
+LBL_DATA_COPY_DUE_DATE_ID,Datenabzugstermin id
+LBL_AUD_WAVE_ID,Versandwelle
+LBL_AUD_DATA_COPY_DATE,Datenabzugstermin

@@ -1,0 +1,117 @@
+LBL_ASSIGNED_TO_ID,Zugewiesen an:
+LBL_ASSIGNED_TO_NAME,Zugewiesen an:
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt:
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von:
+LBL_MODIFIED_NAME,Geändert von:
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von:
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer
+LBL_MODIFIED_USER,Geändert von Benutzer
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_MODULE_NAME,Dokumentenverwaltung
+LBL_MODULE_TITLE,Dokumente
+LNK_NEW_DOCUMENT,Neu Dokument
+LNK_DOCUMENT_LIST,Dokumente
+LBL_SEARCH_FORM_TITLE,Suchen Document
+LBL_DOCUMENT_ID,Dokument ID
+LBL_ASSIGNED_TO,Zugewiesen an:
+LBL_CATEGORY,Category
+LBL_SUBCATEGORY,Sub Category
+LBL_STATUS,Status
+LBL_IS_TEMPLATE,Is a Template
+LBL_TEMPLATE_TYPE,Document Type
+LBL_REVISION_NAME,Revision Number
+LBL_MIME,Mime Type
+LBL_REVISION,Revision
+LBL_DOCUMENT,Related Document
+LBL_LATEST_REVISION,Latest Revision
+LBL_CHANGE_LOG,Change Log
+LBL_ACTIVE_DATE,Veröffentlicht am
+LBL_EXPIRATION_DATE,Expiration Date
+LBL_FILE_EXTENSION,File Extension
+LBL_CAT_OR_SUBCAT_UNSPEC,Unspecified
+LBL_NEW_FORM_TITLE,Neu Dokument
+LBL_DOC_NAME,Dokument Name:
+LBL_FILENAME,File Name:
+LBL_FILE_UPLOAD,File:
+LBL_DOC_VERSION,Revision:
+LBL_CATEGORY_VALUE,Kategorie old:
+LBL_SUBCATEGORY_VALUE,Sub Category:
+LBL_DOC_STATUS,Status:
+LBL_DET_TEMPLATE_TYPE,Document Type:
+LBL_TEAM,Teams
+LBL_DOC_DESCRIPTION,Beschreibung:
+LBL_DOC_ACTIVE_DATE,Veröffentlicht am
+LBL_DOC_EXP_DATE,Expiration Date:
+LBL_LIST_FORM_TITLE,Dokumente
+LBL_LIST_DOCUMENT,Dokumente
+LBL_LIST_CATEGORY,Kategorie
+LBL_LIST_SUBCATEGORY,Sub Category
+LBL_LIST_REVISION,Revision
+LBL_LIST_LAST_REV_CREATOR,Erstellt von
+LBL_LIST_LAST_REV_DATE,Revision Date
+LBL_LIST_VIEW_DOCUMENT,Dokumente
+LBL_LIST_DOWNLOAD,Download
+LBL_LIST_ACTIVE_DATE,Veröffentlicht am
+LBL_LIST_EXP_DATE,Expiration Date
+LBL_LIST_STATUS,Status
+LBL_LIST_DOC_TYPE,Document Type
+LBL_LIST_FILENAME,File Name
+LBL_SF_DOCUMENT,Dokument Name:
+LBL_SF_CATEGORY,Category:
+LBL_SF_SUBCATEGORY,Sub Category:
+LBL_SF_ACTIVE_DATE,Veröffentlicht am
+LBL_SF_EXP_DATE,Expiration Date:
+DEF_CREATE_LOG,Dokument Created
+ERR_DOC_NAME,Dokument Name
+ERR_DOC_ACTIVE_DATE,Veröffentlicht am
+ERR_DOC_EXP_DATE,Expiration Date
+ERR_FILENAME,File Name
+LBL_TREE_TITLE,Dokumente
+LBL_LIST_DOCUMENT_NAME,Dokument Name
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_LIST_MODULE_NAME,Documents
+LBL_PUBLISHED_BY,Veröffentlicht von
+LBL_MODULE_NAME_SINGULAR,Dokument
+LBL_HOMEPAGE_TITLE,My Dokumente
+LNK_NEW_RECORD,Neu Dokument
+LNK_LIST,Dokumente
+LNK_IMPORT_AUD_DOCUMENTS,Import Dokument
+LBL_HISTORY_SUBPANEL_TITLE,View History
+LBL_ACTIVITIES_SUBPANEL_TITLE,Activity Stream
+LBL_AUD_DOCUMENTS_SUBPANEL_TITLE,Dokumente
+LNK_IMPORT_VCARD,Import Dokument vCard
+LBL_IMPORT,Import Dokumente
+LBL_IMPORT_VCARDTEXT,Automatically create a new Dokument record by importing a vCard from your file system.
+LBL_AUD_DOC_CATEGORY_DD,Kategorie
+LBL_AUD_DOC_RANG,Rang
+LBL_AUD_DOC_TYPE,Dokumententyp
+LBL_AUD_DOC_UPLOAD_DATE,Dokument hochgeladen am
+LBL_AUD_DOC_PUBLISHED_FLAG,Veröffentlicht?
+LBL_PUBLISH_DOCUMENT,Dokument veröffentlichen
+LBL_PUBLISHING_DOCUMENT,Das Dokument {{name}} wurde soebend veröffentlicht.
+LBL_ALREADY_PUBLISHED_DOCUMENT,Das Dokument {{name}} wurde bereits am {{aud_doc_published_date}} von {{aud_doc_published_by}} veröffentlicht.
+LBL_AUD_DOC_SIZE,Dokument Größe
+LBL_AUD_DOCUMENTS_USERS_AUD_DOC_PUBLISHED_BY_NAME,Veröffentlicht von
+LBL_AUD_ACTIONCONTAINER_ELEMENT,Streckenelement
+LBL_AUD_ACTION_CONTAINER_ELEMENT_FROM_AUD_DOCUMENTS_TITLE,Streckenelement
+LBL_AUD_ACTIONCONTAINER,Programm
+LBL_AUD_ACTION_CONTAINER_FROM_AUD_DOCUMENTS_TITLE,Programm
+LBL_AUD_ACTION,Aktion
+LBL_AUD_ACTION_FROM_AUD_DOCUMENTS_TITLE,Aktion
+LBL_CATEGORY_PARTICPATION_ALREADY_EXIST,Es existieren bereits die Teilnahmebedingungen. Bitte wählen Sie eine andere Kategorie aus.
+LBL_RANGE_SHOULD_UNIQUE,Bereich sollte eindeutig pro Kategorie werden

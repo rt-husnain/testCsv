@@ -1,0 +1,267 @@
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von:
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von:
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_LIST_FORM_TITLE,Aktionen Liste
+LBL_MODULE_NAME,Aktionen
+LBL_MODULE_TITLE,Aktionen
+LBL_MODULE_NAME_SINGULAR,Aktion
+LBL_HOMEPAGE_TITLE,Mein Aktionen
+LNK_NEW_RECORD,Neue Aktion
+LNK_LIST,Ansicht Aktionen
+LNK_IMPORT_AUD_AUD_ACTIONS,Import Action
+LBL_SEARCH_FORM_TITLE,Suchen Aktionen
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_AUD_ACTIONS_SUBPANEL_TITLE,Actions
+LBL_NEW_FORM_TITLE,Neu Aktion
+LNK_IMPORT_VCARD,Import Action vCard
+LBL_IMPORT,Import Actions
+LBL_IMPORT_VCARDTEXT,Automatically create a new Action record by importing a vCard from your file system.
+LNK_IMPORT_AUD_ACTIONS,Import Action
+LBL_AUD_ACTIONS_SUBPANEL_TITLE,Actions
+LBL_AUD_ACTIONS_FROM_AUD_PERF_MEASUREMENT_TITLE,Erfolgsmessungen
+LBL_GENERATE_CONTACT_LISTS,Erstellung von Kundenlisten zum Selektionsende
+LBL_CAMPAIGN_FILE_HISTORY_LINK,Übersicht der erstellen Kundenlisten
+LBL_AUD_REGCONTACTS_DOWNLOAD_FLAG,Kundenliste exportiert?
+LBL_LINKED_SENDING_WAVES_NOT_FOUND,Es muss mindestens eine Versandwelle vorhanden sein.
+LBL_REGISTERED_CONTACTS_FULLY_BOOKED,Die Fachabteilung der Audi AG hat keine Warnhinweise hinterlegt. Bitte kontaktieren Sie ihren Systemverantwortlichen.
+LBL_ARCHIVE_ACTIONS_MENU,Archiv für Aktionen
+LBL_AUD_ARCHIVE_ACTIONS,Archiv für Aktionen
+LBL_PARTICIPATION_BUTTON,Teilnahme erklären
+LBL_PARTICIPATION_CO_HGW_BUTTON,Teilnahme als HGW-Mitwerber
+LBL_PARTICIPATION_HGW_RESPONSIBLE_BUTTON,Teilnahme als HGW-Verantwortlicher
+LBL_UNDO_PARTICIPATION_BUTTON,Teilnahme zuruckziehen
+LBL_AUD_USE_AUTO_EXTEND_FOR_DEALER_FLAG,Automatische Erweiterung der Sichtbarkeit für Händler verwenden?
+LBL_AUD_ACTION_FROM_AUD_DEALER_PARTICIPATION_TITLE,Teilnehmende Partner
+LBL_AUD_ACTION_FROM_AUD_SENDING_WAVES_TITLE,Versandwellen
+LBL_AUD_ACTION_FROM_AUD_REGISTERED_CONTACTS_TITLE,Eingemeldete Kunden
+LNK_SENDING_WAVES_LIST,Versandwellen
+LNK_REGISTERD_CONTACT_LIST,Eingemeldete Kunden
+LNK_DEALER_PARTICIPATION_LIST,Teilnehmende Partner
+LNK_CHECKOUT_REASON_MGNT_LIST,Ausmeldegrundverwaltung
+LBL_AUD_ACTION,Aktions ID
+LBL_AUD_SENDING_WAVE_DATE,Versandwelle
+LBL_AUD_MULTIPLE_CORRESPONDENCE_FL,Mehrfachanschreiben erlaubt?
+LBL_AUD_COUNT_CONTACTS,Anzahl Kunden
+LBL_AUD_HGW_INVITE_COUNT,Anzahl HGW Mitwerber
+LBL_RECORD_SAVED_SUCCESS,{{moduleSingularLower}} <a href="#{{buildRoute model=this}}">{{name}}</a> wurde gespeichert.
+LBL_CANCEL_ACTION_BUTTON,Aktion abbrechen
+LBL_CANCEL_NOT_SUPPORTED_MSG,Diese Aktion kann aufgrund ihres aktuellen Status {{aud_action_status_dd}} nicht abgebrochen werden.
+LBL_DELETE_NOT_SUPPORTED_MSG,Diese Aktion kann aufgrund ihres aktuellen Status {{aud_action_status_dd}} nicht gelöscht werden.
+LBL_OK_BUTTON_LABEL,Ok
+LBL_CANCEL_ACTION_HEADER,Aktion abbrechen
+LBL_CANCEL_ERROR_MSG,Please add cancel reason
+LBL_DEALER_PARTICIPATION_RELATED_TAB,Teilnahmedetails
+LBL_MANAGE_ACCESS_BUTTON,Partner Teilnahme Verwaltung
+LBL_MANAGE_RCF_FIX_BUTTON,Kunden Teilnahme Verwaltung (Fix)
+LBL_MANAGE_RCF_OPT_BUTTON,Kunden Teilnahme Verwaltung (Optional)
+LBL_NO_UNDO_PARTICIPATION_CONFIRM,Aktion ist bereits beendet. Teilnahme kann nicht mehr zuürckgezogen werden.
+LNK_IMPORT_LEADS,Interessenten importieren
+LBL_AUD_LEAD_DOABLE_FLAG,Fremdadressen möglich?
+LBL_AUD_MIN_LEADS_PER_DEALER,Min Fremdadressen pro Partner
+LBL_REGISTER_CONTACT_BUTTON,Kunden einmelden
+LBL_GENERATE_WBK_ID,Aktions-ID für WBK erstellen
+LBL_WBK_ID_ALREADY_EXISTS,Es wurde bereits die ID {{aud_ext_wbk_newsletter_id}} für diese Aktion erzeugt. Bitte verwenden Sie diese.
+LBL_WBK_ID_CREATED,Die ID {{aud_ext_wbk_newsletter_id}} wurde erstellt. Bitte teilen Sie diese dem WBK jetzt mit.
+LBL_DESCENDING_SORT,Neueste zuerst
+LBL_ASCENDING_SORT,Ablaufdatum zuerst
+LBL_ARCHIVE,abgelaufene Aktionen
+LBL_WBK_ICON_TEXT,WBK
+LBL_DEADLINE_PARTICIPATION_WBK_STATUS,Anpassung
+LBL_DEADLINE_NO_PARTICIPATION,Teilnahme
+LBL_DEADLINE_PARTICIPATION,Abschluss
+LBL_DAYS_UNTIL_AUD_SELECTION_ENDING_DATE,noch {{days}} Tage möglich
+LBL_HGW_ICON_TEXT,HGW
+LBL_CUSTOMIZE_BTN,Anpassen
+LBL_PENDING_INVITATION_TEXT,Sie wurden zu dieser Aktion eingeladen
+LBL_ACTION_SEND,Aktion versendet
+LBL_ACTION_COMPLETE,Aktion beendet
+LBL_DATA_COPY_DAYS,Datenabzugstermine
+LBL_REQUEST_STATISTIC,Statistik abrufen
+LBL_ORDER_PLACED,Bestellung platziert
+LBL_INVOICE_RECIPIENT_BUTTON,Rechnungsempfänger definieren
+LBL_BILLING_ADDRESS,Adresse (Rechnungsempfänger)
+LBL_BILLING_RECIPIENT_SALUTATION,Anrede
+LBL_BILLING_RECIPIENT_TITLE,Titel
+LBL_BILLING_FIRSTNAME,Vorname
+LBL_BILLING_LASTNAME,Nachname
+LBL_NO_PARTICIPATION_FOUND,Bitte erklären Sie zuerst Ihre Teilnahmen um im Anschluss die notwendigen Folgeaktionen durchführen zu können.
+LBL_AUD_ACTION_FROM_REG_SELECTION_HISTORY,Kundenlistenerzeugung
+LBL_AUD_ICON_TYPE,icon_typ
+LBL_AUD_IS_SUPPORT_ELEMENT_FLAG,Ist Betreuungselmenent
+LBL_AUD_QUESTIONNAIRE_ID,Fragebogen
+LBL_AUD_EXT_WBK_NEWSLETTERID,Externe WBK Newsletter ID
+LBL_AUD_EXT_WBK_TEMPLATEID,Externe WBK Template ID
+LBL_AUD_EXT_WBK_TYPE_DD,Externe WBK Typ
+LBL_AUD_EXT_WBK_JOBID,Externe WBK Job ID
+LBL_AUD_EXT_WBK_OLDJOBID,Externe WBK old Job ID
+LBL_AUD_EXT_ORGID_CANCELLATION_FLAG,Org ID Storno
+LBL_AUD_EXT_RETURN_ERROR_MESSAGE,Externe Fehlermeldung
+LBL_AUD_EXT_SUCCESS_FLAG,Versand erfolgreich?
+LBL_AUD_ACTION_TYPE_DD,Aktionstyp
+LBL_AUD_ACTION_STATUS_DD,Aktionsstatus
+LBL_AUD_ACTION_STATUS_CANCEL_TXT,Abbruchbegründung
+LBL_AUD_PICTURE,Bild
+LBL_AUD_PARTICIPATION_CONDITIONS_TXT,Teilnahmebedingungen
+LBL_AUD_REMOVE_PARTICIPATION_CONDITIONS_TXT,Teilnahmebeendigung
+LBL_AUD_SAMPLE_SENDING_ALLOWED_FLAG,Musterversand möglich
+LBL_AUD_MAX_SAMPLES,Max Anzahl Muster
+LBL_AUD_ADDRESS_WITHOUT_CONTACT_FLAG,Adressen ohne Ansprechpartner?
+LBL_AUD_ACTION_END_DATE,Endet am
+LBL_AUD_ACTION_PUBLISHED_FLAG,Freigeschaltet?
+LBL_AUD_HGW_DOABLE_FLAG,HGW möglich?
+LBL_AUD_MAX_HGW_DEALERS,Max Anzahl HGW Mitwerber
+LBL_AUD_BUSINESS_UNIT_DD,Geschäftsbereich
+LBL_AUD_MIN_CONTACTS_PER_DEALER,Min Teilnehmer pro Partner
+LBL_AUD_MIN_CONTACTS_PER_DEALER_TXT,Min Teilnehmer pro Partner Warnung
+LBL_AUD_MAX_CONTACTS_PER_ACTION,Max Teilnehmer pro Aktion
+LBL_AUD_MAX_CONTACTS_PER_ACTION_TXT,Max Teilnehmer pro Aktion Warnung
+LBL_AUD_FULLY_BOOKED_FLAG,Ausgebucht?
+LBL_AUD_MIN_DEALERS_FOR_ACTION,Min Partner
+LBL_AUD_MAX_DEALERS_FOR_ACTION,Max Partner
+LBL_AUD_MAILING_DATE,Versand- /Verarbeitungs- /Übergabedatum
+LBL_AUD_SUM_REGISTERED_CONTACTS,Summe eingemeldeter Kunden
+LBL_AUD_CHECKOUT_DATA_UNTIL,Einmeldefrist bis
+LBL_AUD_REGISTRATION_COSTS_FOR_CONTACT,Einmeldekosten für Kunde
+LBL_AUD_REGISTRATION_COSTS_EUR_FOR_CONTACT,Einmeldekosten pro Kunde (€)
+LBL_AUD_SECURITY_TEXT,Sicherheitsabfrage
+LBL_AUD_SECURITY_CONSEQUENCES_TEXT,Konsequenzen
+LBL_AUD_FD_DEALERSELECTION_FIX,FilterDashlet Partnerselektion (fix)
+LBL_AUD_FD_CONTACTSEL_FIX,FilterDashlet Kundenselektion (fix)
+LBL_AUD_FD_CONTACTSEL_OPTIONAL,FilterDashlet Kundenselektion (variable)
+LBL_AUD_FD_SUGAR_DEALERSEL_FIX,FilterDashlet Sugar Ready Partnerselektion (fix)
+LBL_AUD_FD_SUGAR_CONTACTSEL_FIX,FilterDashlet Sugar Ready Kundenselektion (fix)
+LBL_AUD_FD_SUGAR_CONTACTSEL_OPT,FilterDashlet Sugar Ready Kundenselektion (variable)
+LBL_AUD_FD_SUGAR_WHITELIST_CAR_VINS,FilterDashlet Sugar Ready Whitelist Fahrzeuge (FINs)
+LBL_AUD_FD_SUGAR_BLACKLIST_CAR_VINS,FilterDashlet Sugar Ready Blacklist Fahrzeuge (FINs)
+LBL_AUD_FD_SUGAR_DE_EMAIL_REQUIRED,FilterDashlet Sugar Ready DE Email
+LBL_AUD_WA_NUMBER,WA Nummer
+LBL_AUD_COST_CENTER,Kostenstelle
+LBL_AUD_EMAIL_NOTIFICATION_FLAG,E-Mail Benachrichtigung
+LBL_AUD_CHECKIN_BECAUSE_OF_CAR_FLAG,Fahrzeugbezogene Einmeldung?
+LBL_AUD_ACTION_START_DATE,Startet am
+LBL_RECORDVIEW_PANEL_WKB,WBK
+LNK_ADDITIONAL_SERVICES_LIST,Verlauf Zusatzdienste
+LBL_AUD_ACTIONS_AUD_ADDITIONAL_SERVICES_SUBPANEL_TITLE,Zusatzdienste
+LBL_AUD_ACTIONS_AUD_ADDITIONAL_SERVICES_1_FROM_AUD_ACTIONS_TITLE,Zusatzdienste
+LBL_AUD_IS_ACTION_BONUS_RELEVANT_FLAG,Ist Aktion bonusrelevant?
+LBL_AUD_MIN_CONTACTS_PER_DEALER_BONUS,Mindesteinmeldeanzahl zur Bonuserreichung
+LBL_AUD_ACTION_BONUS_TEXT,Hinweis zur Erreichung Ihrer Bonusziele
+LBL_AUD_ACTION_BONUS_TEXT_STRING,Um Ihre Einmeldeziele zu erreichen, sind mindestens {{aud_min_contacts_per_dealer_bonus}} Einmeldungen notwendig.
+LBL_PANEL_BONUS_TARGETS,Bonusziele
+LBL_AUD_REGISTER_CONTACT_FILTER_FIX,Kunden Teilnahme Verwaltung (Fix)
+LBL_AUD_REGISTER_CONTACT_FILTER_OPT,Kunden Teilnahme Verwaltung (Optional)
+LBL_ACTION_INFO_TITLE,Informationen zur Aktion
+LBL_CURRENCY_RATE,Wechselkurs
+LBL_CURRENCY_ID,Währung ID
+LBL_START_CALLING,Telefonaktion jetzt starten
+LBL_AUD_ACTION_FROM_AUD_DEALER_SAMPLE_RECIPIENT_TITLE,Musterempfänger
+LBL_CANNOT_ORDER_MORE_SAMPLES,Sie können nur maximal {{aud_max_samples}} Muster bestellen. Ihr Limit wurde erreicht.
+LBL_SAMPLE_SENDING_BUTTON,Musterversand beauftragen
+LBL_CANNOT_ORDER_SAMPLES,Sie können Nicht Muster bestellen.
+LBL_REGISTERED_CONTACTS_LIMIT_REACHED,Das Einmeldelimit von %s wurde bereits erreicht. Sie können keine weiteren Kunden mehr einmelden
+LBL_REQUEST_STATISTICS_BUTTON,Statistiken abrufen
+LBL_BOUNCE_STATE,Bounce Status
+LBL_EMAIL,Email
+LBL_UNSUSCRIBE,Abbestellen
+LBL_CLICKDATE,Klick Datum
+LBL_URL,URL
+LBL_XS,xs
+LBL_WBK_JOB_ID_IS_EMPTY,WBK Job ID Ist leer
+LBL_RECORD_ID_IS_EMPTY,Aktion ID Ist leer
+LBL_RECORD_ID_NOT_FOUND,Aktion ID nicht gefunden.
+LBL_CONTACT_ID_NOT_FOUND,custom/include/Helpers/AUDIStatisticsHelper.php:Die Kundennummer $aud_unique_integer_converted wurde im System nicht gefunden.
+LBL_STATISTICS_DATA_NOT_FOUND,Statistiken Daten nicht gefunden.
+LBL_CALLING_STATISTICS_IS_NOT_SUPPORTED,Ein Abrufen der Statistiken ist derzeit nicht möglich.Entweder wurde die Aktion noch nicht ausgeführt oder nicht erfolgreich an den WBK übertragen.
+LBL_DRAWER_CANCEL,Abbrechen
+LBL_DRAWER_CALL_BY_CCW,Anruf DL (extern)
+LBL_DRAWER_CALL_BY_DEALER,Anruf durch Autohaus
+LBL_DRAWER_CLOSE,Schließen
+LBL_NO_CONTACT_SELECTED,Sie müssen mindestens einen Kunden auswählen um fortfahren zu können.
+LBL_AUD_DEALER_PARTICIPATION_ELE_AUD_ACTIONS_FROM_AUD_ACTIONS_TITLE,Teilnahme Streckenelement
+LBL_AUD_DEALER_PARTICIPATION_ELE_AUD_ACTIONS_FROM_AUD_DEALER_PARTICIPATION_ELE_TITLE,Teilnahme Streckenelement
+LBL_ANSWER_BUTTON_LABEL,Fragebogen beantworten
+LBL_AUD_PANEL_WHITE_BLACK_LISTED_VINS,Whitelist / Blacklist
+LBL_HEADERPANE_ACTION_CONTEXT,Diese Aktion ist seit dem {{date_entered}} Teil der Kampagnen {{name}}
+LBL_SEND_HGW_CONSTELLATION_WBK_BUTTON,HGW Konstellation an WKB übertragen
+LBL_AUD_TELEPHONE_COSTS_EUR,Telefonkosten für CCW
+LNK_ACTION_SUPPORT_ELEMENT,Neues Betreuungselement
+LBL_AUD_DOCUMENTS_SUBPANEL,Dokumente
+LBL_SAVE_CONFIRMATION_ALERT,Achtung: Aktion ist bereits veröffentlicht. Bitte achten Sie auf die Konsequenzen Ihrer Änderungen.
+LBL_AUD_EXT_WBK_DIEDAJOB_ID,Externe WBK DieDa Job ID
+LBL_NOTES_AUD_ACTIONS_FROM_AUD_ACTIONS_TITLE,Notizen
+LBL_NOTES_AUD_ACTIONS_FROM_NOTES_TITLE,Notizen
+LBL_AUD_ACTION_FROM_AUD_DOCUMENTS_TITLE,Aktion
+LBL_UNIQUE_INT_CONVERTED,Eindeutige Nummer (prefixed)
+LBL_AUD_SELECTION_ENDING_DATE,Selektionsende
+LBL_PLACE_ORDER_UNTILL_SELECTION_ENDS_BUTTON,Bestellung zum Selektionsende abschließen
+LBL_ALREADY_PLACED_ORDER_MESSAGE,Sie haben die Bestellung bereits am {{aud_order_placed_at}} ausgeführt. Eine erneute Bestellung ist nicht notwendig.
+LBL_PLACE_ORDER_NOW_BUTTON,Bestellung sofort abschließen
+LBL_AUD_ORDER_PLACED_COUNTER,Anzahl ausgeführter Bestellungen
+LBL_AUD_ORDER_PLACED_BY,Bestellung ausgeführt durch
+LBL_AUD_ORDER_PLACED_AT,Bestellung ausgeführt am
+LBL_AUD_ORDER_PLACED_FLAG,Bestellung ausgeführt?
+LBL_ORDERDETAILS_PANEL,Bestellübersicht
+LBL_ORDER_DETAIL_VIEW,Bestellübersicht
+LBL_AUD_ACTION_DATE_ENTERED,Erstellt am
+LBL_CLEANUP_REGISTERED_CONTACTS,De-Dublizierung der Vorschlagsliste
+LBL_CLEANUP_REGISTERED_CONTACTS_RESULTS,Ergebnisse De-Dublizierung der Vorschlagsliste
+LBL_RECANT_ORDER_BUTTON,Bestellung zurücknehmen
+LBL_PAST_SELECTION_ENDING_DATE,Sie können die Bestellung nicht zurückziehen. Das Selektionsende
+ dieser Aktion wurde bereits am {{aud_selection_ending_date}} erreicht.
+LBL_SUCCESSFUL_RECALL,Sie haben soeben erfolgreich die Bestellung zurückgezogen.
+LBL_EMPTY_SELECTION_ENDING_DATE,Das Selektionsende wurde nicht gesetzt. Bitte wenden Sie sich an
+ Ihren CRM-Service-Dienstleister.
+TPL_DASHLET_CURRENT_NEWSLETTER_ACTIONS,Current Newsletter Aktionen
+LBL_CURRENT_NEWSLETTER_ACTIONS,Current Newsletter Aktionen
+LBL_AUD_ACTION_FROM_AUD_PERF_MEASUREMENT_TITLE,Erfolgsmessungen
+LBL_INVALID_ACTION_STATUS_ERROR_MESSAGE,Die Aktion befindet sich aktuell im Status
+ {{aud_action_status_dd}}. Sie können keine Kunden mehr ein- bzw. ausmelden.
+LBL_INVALID_MAILING_DATE_ERROR_MESSAGE,Das Versanddatum {{aud_mailing_date}} liegt in der Vergangenheit. Eine Änderung ist leider nicht mehr möglich.
+LBL_MANAGE_HGW_DEALER_ACCESS_BUTTON,HGW-Teilnahmedefinitionen
+LBL_AUD_ACTION_FOR_AUD_ACTIONS_HGW_CONSTELLATION_TITLE,HGW-Konstellation
+LBL_PARTICIPATION_AS_HGW_CONFIRM_TITLE,Teilnahme als HGW Verantwortlicher
+LBL_PARTICIPATION_AS_HGW_CONFIRM_NAME,<b>Ihr HGW Name: </b>
+LBL_PARTICIPATION_AS_HGW_CONFIRM_MSG,Sie sind im Begriff eine neue HGW-Konstellation zu erstellen und damit verbunden auch Ihre Teilnahme als HGW-Verantwortlicher zu erklaren. Fortfahren?
+LBL_PARTICIPATION_AS_HGW_CONFIRM_OK,OK
+LBL_AUD_SHORT_DESCRIPTION,Kurzbeschreibung
+LBL_AUD_HTML_DESCRIPTION,Beschreibung (HTML)
+LBL_AUD_ADDITIONAL_SERVICES_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_ACTIONS_AUD_ACTION_NAME,Aktion/Betreuungselement
+LBL_AUD_ACTIONS_AUD_QUESTIONNAIRE_AUD_QUESTIONNAIRE_NAME,Fragebogen
+LBL_AUD_ACTIONS_USERS_AUD_ORDER_PLACED_BY_NAME,Bestellung ausgeführt durch
+LBL_AUD_SENDING_WAVES_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_QUESTIONNAIRE_ANSWER_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_DEALER_PARTICIPATION_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_REGISTERED_CONTACT_AUD_ACTIONS_AUD_ACTION_NAME,Aktions ID
+LBL_AUD_QUESTIONNAIRE_ANSWER_CON_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_WBK_STAGING_AUD_ACTIONS_AUD_ACTION_ID_NAME,Aktion
+LBL_AUD_CATT_HEADER_STAGING_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_STATISTICS_EMAILOPENER_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_AUD_STATISTICS_LINKTRACKING_AUD_ACTIONS_AUD_ACTION_NAME,Aktion
+LBL_RECALL_HGW_INVITE,Alle HGW-Einladungen ablehnen
+LNK_IMPORT_AUD_CARS,Import Aktionen
+LBL_AUD_CARS_SUBPANEL_TITLE,Aktionen

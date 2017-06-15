@@ -1,0 +1,99 @@
+LBL_ASSIGNED_TO_ID,Zugewiesen an:
+LBL_ASSIGNED_TO_NAME,Zugewiesen an:
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am:
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von:
+LBL_MODIFIED_NAME,Geändert von:
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von:
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von:
+LBL_MODIFIED_USER,Erstellt von:
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Löschen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name:
+LBL_LIST_FORM_TITLE,Kunde Fahrzeuge Beziehung Liste
+LBL_MODULE_NAME,Kunde Fahrzeuge Beziehung
+LBL_MODULE_TITLE,Kunde Fahrzeuge Beziehung
+LBL_MODULE_NAME_SINGULAR,Kunde Fahrzeuge Beziehung
+LBL_HOMEPAGE_TITLE,Mein Kunde Fahrzeuge Beziehung
+LNK_NEW_RECORD,Erstellen Kunde Fahrzeuge Beziehung
+LNK_LIST,Ansicht Kunde Fahrzeuge Beziehung
+LNK_IMPORT_AUD_CONTACT_TO_CARS,Import Kunde Fahrzeuge Beziehung
+LBL_SEARCH_FORM_TITLE,Suchen Kunde Fahrzeuge Beziehung
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_CONTACT_TO_CARS_SUBPANEL_TITLE,Kunde Fahrzeuge Beziehung
+LBL_NEW_FORM_TITLE,Neu Kunde Fahrzeuge Beziehung
+LNK_IMPORT_VCARD,Import Kunde Fahrzeuge Beziehung vCard
+LBL_IMPORT,Import Kunde Fahrzeuge Beziehung
+LBL_IMPORT_VCARDTEXT,Automatically create a new Kunde Fahrzeuge Beziehung record by importing a vCard from your file system.
+LBL_CARID,Fahrzeug
+LBL_CONTACTID,Kunde
+LBL_CAR_ID,Fahrzeug
+LBL_AUD_CONTACT_ID,Kunde
+LBL_AUD_CAR_ID,Fahrzeug
+LBL_AUD_AKTIV_INACTIVE_DD,Aktiv/Inaktiv
+LBL_AUD_RELATION_STATUS_DD,Beziehungsstatus
+LBL_AUD_SOURCE,Quelle
+LBL_AUD_BUYING_DATE,Kaufdatum
+LBL_AUD_VIN,FIN
+LBL_AUD_COMMISSION_NUMBER_NEWADA,Kommisions - nummer
+LBL_AUD_REGISTRATION_DATE,EZ-Datum
+LBL_AUD_DELIVERY_LAST_CONTACT_DATE,Auslieferung letzter Kunde
+LBL_AUD_BONUSRELEVANT_FLAG,Bonusrelevent?
+LBL_AUD_NEXT_HU_APPOINTMENT,Nächster HU Termin
+LBL_AUD_CAR_STATUS_DD,Fahrzeugstatus
+LBL_AUD_UNIQUE_FLAG,Eindeutig?
+LBL_CONTACTS_CARS,Kunde Fahrzeuge Beziehung
+LBL_AUD_RELATION_STATUS,Beziehungsstatus
+LBL_AUD_MANUFACTURER,Hersteller
+LBL_AUD_MODEL_LINE,Modellreiehe
+LBL_AUD_MODEL_DERIVATIVE,Modell/Derivat
+LBL_AUD_MODEL_DERIVATIVE_GEARBOX,Modell mit Motorisierung und Getriebe
+LBL_AUD_KEY_NEWADA,Schlüssel für NeWaDa
+LBL_AUD_KEY_DSMARIAV,Schlüssel für DSMariaV
+LBL_AUD_KEY_KEYTOOLS,Schlüssel für KeyTools
+LBL_AUD_KEY_KUBA,Schlüssel für KUBA
+LBL_AUD_KEY_EVA,Schlüssel für EVA
+LBL_AUD_KEY_VWFSAG,Schlüssel für VW FS AG
+LBL_AUD_KEY_AGIS,Schlüssel für AGIS
+LBL_PANEL_MODEL_KEYS,Modellschlüssel
+LBL_CONTACTS_AUD_CONTACT_TO_CARS,Contacts
+LBL_CONTACTS_AUD_CONTACT_TO_CARS_ID,Contacts ID
+LBL_CONTACTS_AUD_CONTACT_TO_CARS_NAME,Contacts
+LBL_DUPLICATE_ACTIVE_REL,Wir bereits haben aktive Beziehung dieser Art. Wir können keine Bewertungen noch von der gleichen Art erstellen.
+LBL_AUD_CONTACTS_CUSTOM,Uneindeutige Kunde Fahrzeug Beziehungen
+LBL_AUD_CAR_LABELS,Uneindeutige Kunde Fahrzeug Beziehungen
+LBL_AUD_CARS_CONTACTS_CUSTOM,Kunde Fahrzeuge Beziehung
+LBL_AUD_CAR_TO_CONTACTS_HEADER_LABELS,Kunde Fahrzeuge Beziehung
+LBL_AUD_DEALER_CONTACTS_FROM_AUD_DEALER_TITLE,Fahrzeuge
+LBL_AUD_CONTACT_DEALER_ID,Kunden Partner ID
+LBL_AUD_CAR_ID_AUD_CARS_ID,Car ID
+LBL_ACTIVATE,Activate
+LBL_DEACTIVATE,Deactivate
+LBL_SELECT_ONE_RECORD_TO_CONTINUE,Sie müssen genau einen
+Datensatz auswählen um fortfahren zu können.
+LBL_ALREADY_ACTIVTED,bereits aktiviert
+LBL_ALREADY_DEACTIVTED,bereits deaktiviert
+LBL_AUD_CONTACT_TO_CARS_AUD_DEALER_AUD_DEALER_NAME,Partner ID
+LBL_AUD_CONTACT_TO_CARS_AUD_CONTACT_TO_CAR_REL_MGNT_AUD_RELATION_STATUS_DD,Beziehungsstatus
+LBL_AUD_LICENSE_PLATE,kennzeichen
+LBL_AUD_DEALER_NAME,Partner
+LBL_AUD_DEALERID_AUD_DEALER_ID,Dealer ID
+AUD_DEALER_ID,Dealer ID
+LBL_CANNOT_DELETE_RECORD,Diese Kunde-Fahrzeug-Beziehung kann
+ aufgrund einer aktiven Verwendung in Aktionen und/oder Kampagnen nicht gelöscht werden.
+LBL_CONTACTS_AUD_CONTACT_TO_CARS_TITLE,Contacts

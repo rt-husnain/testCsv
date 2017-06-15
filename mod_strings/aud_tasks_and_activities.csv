@@ -1,0 +1,64 @@
+LBL_ASSIGNED_TO_ID,Zugwiesen zu
+LBL_ASSIGNED_TO_NAME,Zugwiesen zu
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von ID:
+LBL_DOC_OWNER,Dokument Eigentümer
+LBL_USER_FAVORITES,Benutzerfavoriten
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Gelöscht
+LBL_NAME,Titel
+LBL_CREATED_USER,Erstellt von Benutzer:
+LBL_MODIFIED_USER,Geändert von
+LBL_LIST_NAME,Titel
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_TEAM,Team
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team ID
+LBL_LIST_FORM_TITLE,Aufgaben und Aktivitäten Liste
+LBL_MODULE_NAME,Aufgaben und Aktivitäten
+LBL_MODULE_TITLE,Aufgaben und Aktivitäten
+LBL_MODULE_NAME_SINGULAR,Aufgaben und Aktivitäten
+LBL_HOMEPAGE_TITLE,Mein Aufgaben und Aktivitäten
+LNK_NEW_RECORD,Erstellen Aufgaben und Aktivitäten
+LNK_LIST,Ansicht Aufgaben und Aktivitäten
+LNK_IMPORT_AUD_TASKS_AND_ACTIVITIES,Import Tasks and Activities
+LBL_SEARCH_FORM_TITLE,Suchen Aufgaben und Aktivitäten
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aufgaben und Aktivitäten
+LBL_AUD_TASKS_AND_ACTIVITIES_SUBPANEL_TITLE,Tasks and Activities
+LBL_NEW_FORM_TITLE,Neu Aufgaben und Aktivitäten
+LNK_IMPORT_VCARD,Import Aufgaben und Aktivitäten vCard
+LBL_IMPORT,Import Aufgaben und Aktivitäten
+LBL_IMPORT_VCARDTEXT,Automatically create a new Aufgaben und Aktivitäten record by importing a vCard from your file system.
+LBL_AUD_CATEGORY_DD,Kategorie
+LBL_AUD_ASSIGNED_TO_DEALER_AUD_DEALER_ID,Zugewiesener Partnerbetrieb
+LBL_AUD_ASSIGNED_TO_DEALER,Zugewiesener Partnerbetrieb
+LBL_AUD_ASSIGNED_DATE,Zugwiesen am
+LBL_AUD_READ_FLAG,Ungelesen?
+LBL_AUD_READ_DATE,Gelesen am
+LBL_AUD_READ_BY_USER_CUSTOMUSER_ID,Gelesen von
+LBL_AUD_READ_BY_USER,Gelesen von
+LBL_AUD_DONE_FLAG,Erledigt?
+LBL_AUD_DONE_BY_USER_CUSTOMUSER_ID,Erledigt von
+LBL_AUD_DONE_BY_USER,Erledigt von
+LBL_AUD_DONE_DATE,Erledigt?
+LBL_FLEX_RELATE,Verlinkt mit
+LBL_GOLDEN_RULE_NAME,Un-unique Contact Cars Relationship
+LBL_GOLDEN_RULE_DESCRIPTION,A new Un-unique Contact Cars Relationship has been created. Click here to open the Detail View
+LBL_TASKS_ACTIVITIES_AUD_QUESTIONNAIRE_ANSWER,Fragebogenantworten
+LBL_CONTACT_NAME,Kunden
+LBL_CONTACT,Kunden
+LBL_AUD_DEALER,Partner
+LBL_FILTER_BY_CATEGORY,Filtern nach Kategorie
+LNK_IMPORT_AUD_CAR_MAINTENANCE_MGMT,Import Aufgaben und Aktivitäten
+LBL_AUD_CAR_MAINTENANCE_MGMT_SUBPANEL_TITLE,Aufgaben und Aktivitäten

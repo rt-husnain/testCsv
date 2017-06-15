@@ -1,0 +1,76 @@
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Date Modified
+LBL_MODIFIED,Modified By
+LBL_MODIFIED_ID,Modified By Id
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Created By
+LBL_CREATED_ID,Created By Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_MODULE_NAME,Prozess-Geschäftsregeln
+LBL_MODULE_TITLE,Prozess-Geschäftsregeln
+LBL_MODULE_NAME_SINGULAR,Prozess-Geschäftsregeln
+LBL_RST_UID,Geschäftsregel-ID
+LBL_RST_TYPE,Geschäftsregel-Typ
+LBL_RST_DEFINITION,Geschäftsregel-Definition
+LBL_RST_EDITABLE,Geschäftsregel bearbeitbar
+LBL_RST_SOURCE,Geschäftsregel-Quelle
+LBL_RST_SOURCE_DEFINITION,Geschäftsregel-Quellendefinition
+LBL_RST_MODULE,Zielmodul
+LBL_RST_FILENAME,Geschäftsregel-Dateiname
+LBL_RST_CREATE_DATE,Geschäftsregel-Erstellungsdatum
+LBL_RST_UPDATE_DATE,Geschäftsregel-Aktualisierungsdatum
+LNK_LIST,Prozess-Geschäftsregeln anzeigen
+LNK_NEW_PMSE_BUSINESS_RULES,Create Process Business Rule
+LNK_IMPORT_PMSE_BUSINESS_RULES,Import Process Business Rules
+LBL_PMSE_TITLE_BUSINESS_RULES_BUILDER,Geschäftsregel-Ersteller
+LBL_PMSE_LABEL_DESIGN,Designen
+LBL_PMSE_LABEL_EXPORT,Exportieren
+LBL_PMSE_LABEL_DELETE,Löschen
+LBL_PMSE_SAVE_EXIT_BUTTON_LABEL,Speichern und Beenden
+LBL_PMSE_SAVE_DESIGN_BUTTON_LABEL,Speichern und Designen
+LBL_PMSE_IMPORT_BUTTON_LABEL,Importieren
+LBL_PMSE_MY_BUSINESS_RULES,Meine Prozess-Geschäftsregeln
+LBL_PMSE_ALL_BUSINESS_RULES,Alle Prozess-Geschäftsregeln
+LBL_PMSE_BUSINESS_RULES_SINGLE_HIT,Prozess-Geschäftsregel Einzelner Treffer
+LBL_PMSE_BUSINESS_RULES_IMPORT_TEXT,Automatisch neuen Eintrag Prozess-Geschäftsregel erstellen, wenn eine *.pbr-Datei aus Ihrem Dateisystem importiert wird.
+LBL_PMSE_BUSINESS_RULES_IMPORT_SUCCESS,Prozess-E-Mail-Vorlage wurde erfolgreich in das System importiert.
+LBL_PMSE_BUSINESS_RULES_EMPTY_WARNING,Bitte wählen Sie eine gültige *.pbr-Datei.
+LBL_PMSE_MESSAGE_LABEL_UNSUPPORTED_DATA_TYPE,Nicht unterstützter Datentyp.
+LBL_PMSE_MESSAGE_LABEL_DEFINE_COLUMN_TYPE,Bitte definieren Sie zuerst den Spaltentyp.
+LBL_PMSE_MESSAGE_LABEL_EMPTY_RETURN_VALUE,Die Schlussfolgerung "Return" ist leer.
+LBL_PMSE_MESSAGE_LABEL_MISSING_EXPRESSION_OR_OPERATOR,fehlender Ausdruck oder Operator
+LBL_PMSE_MESSAGE_LABEL_DELETE_ROW,Möchten Sie diesen Regelsatz wirklich löschen?
+LBL_PMSE_MESSAGE_LABEL_MIN_ROWS,Die Entscheidungstabelle muss mindestens 1 Zeile besitzen
+LBL_PMSE_MESSAGE_LABEL_MIN_CONDITIONS_COLS,Die Entscheidungstabelle muss mindestens 1 Bedingungsspalte besitzen
+LBL_PMSE_MESSAGE_LABEL_MIN_CONCLUSIONS_COLS,Die Entscheidungstabelle muss mindestens 1 Schlussfolgerungsspalte besitzen
+LBL_PMSE_MESSAGE_LABEL_CHANGE_COLUMN_TYPE,Values associated to this variable will be removed. Do you want to continue?
+LBL_PMSE_MESSAGE_LABEL_REMOVE_VARIABLE,Do you really want to remove this variable?
+LBL_PMSE_LABEL_CONDITIONS,Bedingungen
+LBL_PMSE_LABEL_RETURN,Zurück
+LBL_PMSE_LABEL_CONCLUSIONS,Schlussfolgerungen
+LBL_PMSE_TOOLTIP_ADD_CONDITION,Bedingung hinzufügen
+LBL_PMSE_TOOLTIP_ADD_CONCLUSION,Schlussfolgerung hinzufügen
+LBL_PMSE_TOOLTIP_ADD_ROW,Zeile hinzufügen
+LBL_PMSE_TOOLTIP_REMOVE_COLUMN,Remove column
+LBL_PMSE_DROP_DOWN_CHECKED,Ja
+LBL_PMSE_DROP_DOWN_UNCHECKED,Nein
+LBL_PMSE_IMPORT_BUSINESS_RULES_FAILURE,Erstellen der Prozess-Geschäftsregel aus Datei fehlgeschlagen
+LBL_PMSE_MESSAGE_REQUIRED_FIELDS_BUSINESSRULES,Diese Geschäftsregel kann nicht angezeigt werden, da sie mit Feldern verknüpft ist, die in dieser Instanz nicht verfügbar sind.
+LBL_PMSE_PROCESS_BUSINESS_RULES_EDIT,This Business Rule is currently being used in a Process Definition. Do you still want to edit this Business Rule?
+LBL_PMSE_PROCESS_BUSINESS_RULES_DELETE,You cannot delete this Business Rule because it is currently used in a Process Definition.

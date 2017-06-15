@@ -1,0 +1,51 @@
+LBL_ASSIGNED_TO_ID,Zugewiesen an:
+LBL_ASSIGNED_TO_NAME,Zugewiesen an:
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags Link
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von
+LBL_CREATED_ID,Erstellt von Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer
+LBL_MODIFIED_USER,Geändert von Benutzer
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_LIST_FORM_TITLE,Marketinggemeinschaft
+LBL_MODULE_NAME,Marketinggemeinschaft
+LBL_MODULE_TITLE,Marketinggemeinschaft
+LBL_MODULE_NAME_SINGULAR,Marketinggemeinschaft
+LBL_HOMEPAGE_TITLE,My Marketinggemeinschaft
+LNK_NEW_RECORD,Neue Marketinggemeinschaft
+LNK_LIST,Marketinggemeinschaft
+LNK_IMPORT_AUD_MARKETING_COMMUNITY,Importieren Marketinggemeinschaft
+LBL_SEARCH_FORM_TITLE,Suchen Marketinggemeinschaft
+LBL_HISTORY_SUBPANEL_TITLE,Aussicht History
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_MARKETING_COMMUNITY_SUBPANEL_TITLE,Marketinggemeinschaft
+LBL_NEW_FORM_TITLE,Neuer Marketinggemeinschaft
+LNK_IMPORT_VCARD,Importieren Marketinggemeinschaft vCard
+LBL_IMPORT,Importieren Marketinggemeinschaft
+LBL_IMPORT_VCARDTEXT,Automatically create a new Marketinggemeinschaft record by importing a vCard.
+LBL_AUD_PARTNERID,Partner ID
+LBL_AUD_USERID,Angestellten ID
+LBL_RECORD_BODY,Marketinggemeinschaft
+LBL_USER_ID,Marketing-Master-Zugang
+LBL_AUD_DEALER_AUD_MARKETING_COMMUNITY_FROM_AUD_MARKETING_COMMUNITY_TITLE,Partner
+LBL_AUD_DEALER_AUD_MARKETING_COMMUNITY_FROM_AUD_DEALER_TITLE,Mitglieder der Marketinggemeinschaft
+LBL_AUD_MARKETING_COMMUNITY_USERS_FROM_AUD_MARKETING_COMMUNITY_TITLE,Marketing Communities
+LBL_AUD_MARKETING_COMMUNITY_USERS_FROM_USERS_TITLE,Marketing Master Zugang
+LBL_AUD_MARKETING_COMMUNITY_USERS_FROM_USERS_TITLE_ID,Angestellten ID

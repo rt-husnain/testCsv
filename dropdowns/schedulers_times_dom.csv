@@ -1,0 +1,6 @@
+not run,Zeitvorgabe abgelaufen, nicht ausgeführt
+ready,Bereit
+in progress,In Bearbeitung
+failed,Fehlgeschlagen
+completed,Abgeschlossen
+no curl,Nicht gelaufen: cURL nicht verfügbar

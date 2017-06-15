@@ -1,0 +1,61 @@
+LBL_CURRENCY,Währung
+LBL_CURRENCIES,Currencies
+LBL_CURRENCY_NAME,Currency Name
+LBL_CURRENCY_SYMBOL,Currency Symbol
+LBL_CURRENCY_RATE,Wechselkurs
+LBL_CURRENCY_ID,Currency ID
+LBL_ASSIGNED_TO_ID,Assigned User Id
+LBL_ASSIGNED_TO_NAME,Assigned to
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Date Modified
+LBL_MODIFIED,Modified By
+LBL_MODIFIED_ID,Modified By Id
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Created By
+LBL_CREATED_ID,Created By Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Description
+LBL_DELETED,Deleted
+LBL_NAME,Name:
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_MODULE_NAME,Vorgaben
+LBL_MODULE_NAME_SINGULAR,Vorgabe
+LBL_MODULE_TITLE,Vorgaben: Home
+LBL_LIST_FORM_TITLE,Vorgabe Liste
+LBL_QUOTA,Vorgabe:
+LBL_ADJUSTED,Adjusted
+LBL_DIRECT_REPORT,Direktbericht
+LBL_QUOTA_AMOUNT,Vorgabe Betrag
+LBL_LAST_MODIFIED,Geändert am:
+LBL_COMMIT_STATUS,Festlegungsstatus
+LBL_COMMITTED,Zugewiesen
+LBL_NOT_COMMITTED,Pending
+LBL_MODULE_FORECASTS_NAME,Prognosen
+LNK_FORECAST_LIST,Prognose
+LNK_FORECAST_HISTORY,Prognose Verlauf
+LNK_UPD_FORECAST,Prognose Arbeitsblatt
+LNK_QUOTA,Vorgaben
+LBL_TIME_PERIOD,Zeitraum:
+LBL_SELECT_TIME_PERIOD,Zeitraum wählen...
+LBL_AMOUNT,Betrag:
+LBL_COMMIT,Durchführen:
+LBL_SELECT_USER,Benutzer auswählen...
+LBL_ASSIGNED_TO_USER,Bearbeiter
+LBL_TIMEPERIOD_ID,Zeistpanne
+LBL_NO_QUOTAS_TIMEPERIOD,Für Ihre direkten Berichte wurden keine Vorgaben für diesen Zeitraum eingegeben.
+LBL_CURRENT_USER_QUOTA,Ihre Vorgabe für diesen Zeitraum ist:
+LBL_CURRENT_USER_NO_QUOTA,Ihnen wurde keine Vorgabe für diesen Zeitraum zugewiesen
+LBL_USER_ID,User ID
+LBL_EDITLAYOUT,Layout bearbeiten
+LBL_QUOTA_TYPE,Typ
+LBL_AMOUNT_BASE_CURRENCY,Währung Grundwert
+LBL_CREATED_BY,Erstellt von
+LBL_DIRECT,Direkt
+LBL_ROLLUP,Rollup

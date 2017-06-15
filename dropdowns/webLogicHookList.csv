@@ -1,0 +1,7 @@
+after_save,Vor Speichern
+after_delete,Nach Löschen
+after_relationship_add,Nach Relation
+after_relationship_delete,Nach Relation löschen
+after_login,Nach Login
+after_logout,Nach Logout
+after_login_failed,Nach fehlgeschlagenem Login

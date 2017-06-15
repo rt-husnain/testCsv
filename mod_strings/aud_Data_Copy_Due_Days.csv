@@ -1,0 +1,59 @@
+LBL_ASSIGNED_TO_ID,Zugewiesen an:
+LBL_ASSIGNED_TO_NAME,Zugewiesen an:
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_TAGS_LINK,Tags Link
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von:
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von
+LBL_CREATED_ID,Erstellt von Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer
+LBL_MODIFIED_USER,Geändert von Benutzer
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_LIST_FORM_TITLE,Datenabzugstermine
+LBL_MODULE_NAME,Datenabzugstermine
+LBL_MODULE_TITLE,Datenabzugstermine
+LBL_MODULE_NAME_SINGULAR,Datenabzugstermine
+LBL_HOMEPAGE_TITLE,Meine Datenabzugstermine
+LNK_NEW_RECORD,Neue Datenabzugstermine
+LNK_LIST,Datenabzugstermine
+LNK_IMPORT_AUD_DATA_COPY_DUE_DAYS,Import Data Copy due days
+LBL_SEARCH_FORM_TITLE,Suchen Datenabzugstermine
+LBL_HISTORY_SUBPANEL_TITLE,Aussicht History
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_DATA_COPY_DUE_DAYS_SUBPANEL_TITLE,Data Copy due days
+LBL_NEW_FORM_TITLE,Neuer Datenabzugstermine
+LNK_IMPORT_VCARD,Importieren Datenabzugstermine vCard
+LBL_IMPORT,Importieren Datenabzugstermine
+LBL_IMPORT_VCARDTEXT,Automatically create a new Datenabzugstermine record by importing a vCard.
+LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_ACTION_CONTAINER_ELEMENT_ID,Aktionselement
+LBL_AUD_ACTION_CONTAINER_ELEMENT,Aktionselement
+LBL_AUD_DATA_COPY_DATE,Datenabzugstermin
+LBL_AUD_MULTIPLE_CORRESPONDENCE_FL,Mehrfachanschreiben erlaubt?
+LBL_AUD_REGISTERED_CONTACTS,Eingemeldete Kunden
+LBL_LINKED_DATA_COPY_DATE_NOT_FOUND,Es muss mindestens ein Datenabzugstermin hinterlegt sein.
+LBL_ZERO_REG_CONTACTS_FOUND,Es muss mindestens ein Eingemeldete Kunden hinterlegt sein.
+LBL_BLOCKED_FLAG,Blockiert?
+LBL_AUD_WAVE_ID,Versandwelle
+LBL_DATA_COPY_DE_DAYS_NAME,Kopie für HGW - {$name}
+LBL_ERR_COPY_DATE_IN_PAST,Das Datum der Datenkopie sollte nicht in der Vergangenheit liegen
+LBL_AUD_SUM_REGISTERED_CONTACTS,Summe eingeladener Kunden
+LBL_AUD_REGISTERED_CONTACT_AUD_DATA_COPY_DUE_DAYS_AUD_DATA_COPY_DUE_DAYS_NAME,Datenabzugstermine
+LBL_AUD_ACTION_FROM_DATA_COPY_DUE_DATE,Kundenlistenerzeugung
+LBL_CAMPAIGN_FILE_HISTORY_LINK,Übersicht der erstellen Kundenlisten
+LNK_IMPORT_AUD_MARKETING_COMMUNITY,Importieren Datenabzugstermine
+LBL_AUD_MARKETING_COMMUNITY_SUBPANEL_TITLE,Datenabzugstermine

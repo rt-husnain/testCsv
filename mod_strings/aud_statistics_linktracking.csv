@@ -1,0 +1,56 @@
+LBL_ASSIGNED_TO_ID,Zugewiesene BenutzerID
+LBL_ASSIGNED_TO_NAME,Zugewiesen an
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt am:
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von:
+LBL_CREATED_ID,Erstellt von ID:
+LBL_DOC_OWNER,Dokument Eigentümer
+LBL_USER_FAVORITES,Benutzerfavoriten
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Gelöscht
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer:
+LBL_MODIFIED_USER,Geändert von
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_LIST_FORM_TITLE,Statistiken - Link tracking Liste
+LBL_MODULE_NAME,Statistiken - Link tracking
+LBL_MODULE_TITLE,Statistiken - Link tracking
+LBL_MODULE_NAME_SINGULAR,Statistiken - Link tracking
+LBL_HOMEPAGE_TITLE,Mein Statistiken - Link tracking
+LNK_NEW_RECORD,Erstellen Statistiken - Link tracking
+LNK_LIST,Ansicht Statistiken - Link tracking
+LNK_IMPORT_AUD_STATISTICS_LINKTRACKING,Import Statistiken - Link tracking
+LBL_SEARCH_FORM_TITLE,Suchen Statistiken - Link tracking
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_STATISTICS_LINKTRACKING_SUBPANEL_TITLE,Statistiken - Link tracking
+LBL_NEW_FORM_TITLE,Neu Statistiken - Link tracking
+LNK_IMPORT_VCARD,Import Statistiken - Link tracking vCard
+LBL_IMPORT,Import Statistiken - Link tracking
+LBL_IMPORT_VCARDTEXT,Automatically create a new Statistiken - Link tracking record by importing a vCard from your file system.
+LBL_AUD_ACTION_NAME_AUD_ACTIONS_ID,Aktion ID
+LBL_AUD_ACTION_NAME,Aktion
+LBL_AUD_CONTACT_NAME_CUSTOMCONTACT_ID,Kunde ID
+LBL_AUD_CONTACT_NAME,Kunde
+LBL_AUD_EXT_WBK_JOBID,Externe WBK Job ID
+LBL_AUD_EMAIL_ADDRESS_TXT,Email
+LBL_AUD_LINK_TRACK_TIMESTAMP,Zeitstemple
+LBL_AUD_LINK_TRACK_URL_TXT,URL
+LBL_AUD_STATISTICS_LINKTRACKING_AUD_ACTIONS_AUD_ACTION_NAME,Aktion ID
+LBL_AUD_STATISTICS_LINKTRACKING_CONTACTS_AUD_CONTACT_NAME,Kunde ID
+LBL_AUD_STATISTICS_LINKTRACKING_AUD_DEALER_AUD_DEALER_NAME,Partner ID
+LBL_AUD_DEALER_NAME,Partner
+LBL_AUD_DEALERID_AUD_DEALER_ID,Dealer ID
+AUD_DEALER_ID,Dealer ID

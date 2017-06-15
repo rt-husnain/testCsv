@@ -1,0 +1,52 @@
+LBL_ASSIGNED_TO_ID,Zugewiesen an
+LBL_ASSIGNED_TO_NAME,Zugewiesen an
+LBL_TAGS_LINK,Tags
+LBL_TAGS,Tags
+LBL_ID,ID
+LBL_DATE_ENTERED,Erstellt
+LBL_DATE_MODIFIED,Geändert am
+LBL_MODIFIED,Geändert von
+LBL_MODIFIED_ID,Geändert von ID
+LBL_MODIFIED_NAME,Geändert von Name
+LBL_CREATED,Erstellt von
+LBL_CREATED_ID,Erstellt von ID
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Erstellt von Benutzer
+LBL_MODIFIED_USER,Geändert von Benutzer
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Bearbeiten
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Geändert von Name
+LBL_TEAM,Teams
+LBL_TEAMS,Teams
+LBL_TEAM_ID,Team Id
+LBL_LIST_FORM_TITLE,Job queue Übersicht Liste
+LBL_MODULE_NAME,Job queue Übersicht
+LBL_MODULE_TITLE,Job queue Übersicht
+LBL_MODULE_NAME_SINGULAR,Job queue Übersicht
+LBL_HOMEPAGE_TITLE,Mein Job queue Übersicht
+LNK_NEW_RECORD,Erstellen Job queue Übersicht
+LNK_LIST,Ansicht Job queue Übersicht
+LNK_IMPORT_AUD_JOB_QUEUE,Import Job queue Übersicht
+LBL_SEARCH_FORM_TITLE,Suchen Job queue Übersicht
+LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
+LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
+LBL_AUD_JOB_QUEUE_SUBPANEL_TITLE,Job queue Übersicht
+LBL_NEW_FORM_TITLE,Neu Job queue Übersicht
+LNK_IMPORT_VCARD,importieren Job queue Übersicht vCard
+LBL_IMPORT,importieren Job queue Übersicht
+LBL_IMPORT_VCARDTEXT,Automatically create a new Job queue Übersicht record by importing a vCard from your file system.
+LBL_AUD_MODULE_NAME,Modulname
+LBL_AUD_MODULE_ID,ModelID
+LBL_AUD_PROCESS_ID,Prozess ID
+LBL_AUD_JOB_QUEUE_DEALER_ID,Partner ID
+LBL_AUD_WBK_ACTION_TYPE_TXT,WBK Aktionstyp
+LBL_AUD_PROCESS_STATUS_DD,Status
+LBL_AUD_JOB_QUEUE_AUD_DEALER_AUD_DEALER_NAME,Partner ID
+LBL_AUD_DEALER_NAME,Partner
+LBL_AUD_DEALERID_AUD_DEALER_ID,Dealer ID
+AUD_DEALER_ID,Dealer ID

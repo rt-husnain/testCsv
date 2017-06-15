@@ -1,0 +1,117 @@
+TPL_ACTIVITY_CREATE,Erstellt {{{str "TPL_ACTIVITY_RECORD" "Activities" object}}} {{str "LBL_MODULE_NAME_SINGULAR" object.module}}.
+TPL_ACTIVITY_POST,{{{value}}}{{{str "TPL_ACTIVITY_ON" "Activities" this}}}
+TPL_ACTIVITY_UPDATE,Aktualisiert: {{#if updateStr}}{{{updateStr}}} on {{/if}}{{{str "TPL_ACTIVITY_RECORD" "Activities" object}}}.
+TPL_ACTIVITY_UPDATE_FIELD,<a rel="tooltip" title="Changed: {{before}} To: {{after}}">{{field_label}}</a>
+TPL_ACTIVITY_LINK,Relation erstellt: {{{str "TPL_ACTIVITY_RECORD" "Activities" subject}}} to {{{str "TPL_ACTIVITY_RECORD" "Activities" object}}}.
+TPL_ACTIVITY_UNLINK,Verknüpfung entfernt: {{{str "TPL_ACTIVITY_RECORD" "Activities" subject}}} zu {{{str "TPL_ACTIVITY_RECORD" "Activities" object}}}.
+TPL_ACTIVITY_ATTACH,Datei hinzugefügt: <a class="dragoff" target="sugar_attach" href="{{url}}" data-note-id="{{noteId}}">{{filename}}</a>{{{str "TPL_ACTIVITY_ON" "Activities" this}}}
+TPL_ACTIVITY_DELETE,Gelöscht {{{str "TPL_ACTIVITY_RECORD" "Activities" object}}} {{str "LBL_MODULE_NAME_SINGULAR" object.module}}.
+TPL_ACTIVITY_UNDELETE,Wiederhergestellt {{{str "TPL_ACTIVITY_RECORD" "Activities" object}}} {{str "LBL_MODULE_NAME_SINGULAR" object.module}}.
+TPL_ACTIVITY_RECORD,<a href="#{{buildRoute module=module id=id}}">{{name}}</a>
+TPL_ACTIVITY_ON,{{#if object}} on {{{str "TPL_ACTIVITY_RECORD" "Activities" object}}}.{{/if}}{{#if module}} on {{str "LBL_MODULE_NAME_SINGULAR" module}}.{{else}} {{/if}}
+TPL_COMMENT,{{{value}}}
+TPL_MORE_COMMENT,{{this}} mehr Kommentar…
+TPL_MORE_COMMENTS,{{this}} mehr Kommentare…
+TPL_SHOW_MORE_MODULE,Weitere Posts anzeigen
+LBL_ID,ID
+LBL_DATE_ENTERED,Date Created
+LBL_DATE_MODIFIED,Date Modified
+LBL_MODIFIED,Modified By
+LBL_MODIFIED_ID,Modified By Id
+LBL_MODIFIED_NAME,Modified By Name
+LBL_CREATED,Created By
+LBL_CREATED_ID,Created By Id
+LBL_DOC_OWNER,Document Owner
+LBL_USER_FAVORITES,Users Who Favorite
+LBL_DESCRIPTION,Beschreibung:
+LBL_DELETED,Deleted
+LBL_NAME,Name
+LBL_CREATED_USER,Created by User
+LBL_MODIFIED_USER,Modified by User
+LBL_LIST_NAME,Name
+LBL_EDIT_BUTTON,Edit
+LBL_REMOVE,Remove
+LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_MODULE_NAME,Aktivitäten
+LBL_MODULE_NAME_SINGULAR,Aktivitäten
+LBL_MODULE_TITLE,Aktivitäten: Home
+LBL_SEARCH_FORM_TITLE,Aktivitäten Suche
+LBL_LIST_FORM_TITLE,Aktivitäten Liste
+LBL_LIST_SUBJECT,Betreff
+LBL_LIST_CONTACT,Kontakt
+LBL_LIST_RELATED_TO,Gehört zu
+LBL_LIST_DATE,Datum
+LBL_LIST_TIME,Startzeit
+LBL_LIST_CLOSE,Schließen
+LBL_SUBJECT,Betreff:
+LBL_STATUS,Status:
+LBL_LOCATION,Ort:
+LBL_DATE_TIME,Startdatum und -zeit:
+LBL_DATE,Startdatum:
+LBL_TIME,Beginn:
+LBL_DURATION,Dauer:
+LBL_DURATION_MINUTES,Minuten:
+LBL_HOURS_MINS,(Stunden/Minuten)
+LBL_CONTACT_NAME,Name:
+LBL_MEETING,Sitzung:
+LBL_DESCRIPTION_INFORMATION,Beschreibungsinformation
+LBL_COLON,:
+LNK_NEW_CALL,Neuer Anruf
+LNK_NEW_MEETING,Neues Meeting
+LNK_NEW_TASK,Neue Aufgabe
+LNK_NEW_NOTE,Neue Notiz oder Anlage
+LNK_NEW_EMAIL,E-Mail archivieren
+LNK_CALL_LIST,Anrufe
+LNK_MEETING_LIST,Meetings
+LNK_TASK_LIST,Aufgaben
+LNK_NOTE_LIST,Notizen
+LNK_EMAIL_LIST,E-Mails
+LBL_DELETE_ACTIVITY,Sind Sie sicher dass Sie Ihre letzte Aktion löschen wollen?
+ERR_DELETE_RECORD,Zum Löschen der Firma muss eine Datensatznummer angegeben werden.
+NTC_REMOVE_INVITEE,Möchten Sie diesen Teilnehmer wirklich aus diesem Meeting entfernen?
+LBL_INVITEE,Teilnehmer
+LBL_LIST_DIRECTION,Richtung
+LBL_DIRECTION,Richtung
+LNK_NEW_APPOINTMENT,Neues Meeting
+LNK_VIEW_CALENDAR,Heute
+LBL_OPEN_ACTIVITIES,Offene Aktivitäten
+LBL_HISTORY,Verlauf
+LBL_UPCOMING,Meine nächsten Termine
+LBL_TODAY,bis
+LBL_NEW_TASK_BUTTON_TITLE,Neue Aufgabe [Alt+N]
+LBL_NEW_TASK_BUTTON_KEY,N
+LBL_NEW_TASK_BUTTON_LABEL,Neue Aufgabe
+LBL_SCHEDULE_MEETING_BUTTON_TITLE,Neues Meeting [Alt+M]
+LBL_SCHEDULE_MEETING_BUTTON_KEY,M
+LBL_SCHEDULE_MEETING_BUTTON_LABEL,Neues Meeting
+LBL_SCHEDULE_CALL_BUTTON_TITLE,Neuer Anruf [Alt+C]
+LBL_SCHEDULE_CALL_BUTTON_KEY,C
+LBL_SCHEDULE_CALL_BUTTON_LABEL,Neuer Anruf
+LBL_NEW_NOTE_BUTTON_TITLE,Neue Notiz oder Anlage [Alt+T]
+LBL_NEW_NOTE_BUTTON_KEY,T
+LBL_NEW_NOTE_BUTTON_LABEL,Neue Notiz oder Anlage
+LBL_TRACK_EMAIL_BUTTON_TITLE,E-Mail archivieren [Alt+K]
+LBL_TRACK_EMAIL_BUTTON_KEY,K
+LBL_TRACK_EMAIL_BUTTON_LABEL,E-Mail archivieren
+LBL_LIST_STATUS,Status
+LBL_LIST_DUE_DATE,Fällig am
+LBL_LIST_LAST_MODIFIED,Geändert am:
+NTC_NONE_SCHEDULED,Keine Termine.
+appointment_filter_dom___last next_month,Nächster Monat
+appointment_filter_dom___last this_month,Dieser Monat
+appointment_filter_dom___next Saturday,Nächste Woche
+appointment_filter_dom___this Saturday,Diese Woche
+appointment_filter_dom___today,Heute
+appointment_filter_dom___tomorrow,Morgen
+LNK_IMPORT_CALLS,Anrufe importieren
+LNK_IMPORT_MEETINGS,Meetings importieren
+LNK_IMPORT_TASKS,Aufgaben importieren
+LNK_IMPORT_NOTES,Notizen importieren
+NTC_NONE,Kein(e)
+LBL_ACCEPT_THIS,Bestätigen?
+LBL_DEFAULT_SUBPANEL_TITLE,Offene Aktivitäten
+LBL_LIST_ASSIGNED_TO_NAME,Zugew. Benutzer
+LBL_ACCEPT,Bestätigen
+LBL_AUD_USER_ID,Angestellten ID
+LBL_AUD_USER_NAME,Benutzername
+LBL_AUD_TEAM_NAME,Team

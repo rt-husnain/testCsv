@@ -1,0 +1,4 @@
+assigned_user_id,Benutzer, der dem getriggerten Eintrag zugewiesen ist
+modified_user_id,Benutzer, der den getriggerten Eintrag zuletzt geändert hat
+created_by,Benutzer, der den getriggerten Eintrag erstellt hat
+current_user,Angemeldeter Benutzer
