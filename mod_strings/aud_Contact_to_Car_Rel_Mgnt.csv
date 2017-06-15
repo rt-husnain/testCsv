@@ -41,8 +41,8 @@ LNK_IMPORT_VCARD,Import Kunde Fahrzeuge Beziehungs Management vCard
 LBL_IMPORT,Import Kunde Fahrzeuge Beziehungs Management
 LBL_IMPORT_VCARDTEXT,Automatically create a new Kunde Fahrzeuge Beziehungs Management record by importing a vCard from your file system.
 LBL_RELATION_UNIQUE_DD,Beziehungsgruppeneindeutig?
-LBL_CUSTOMER_GROUP_UNIQUE_DD,Kundeneindeutig?
+LBL_CUSTOMER_GROUP_UNIQUE_DD,Kunden eindeutig?
 LBL_RELATION_STATUS_DD,Beziehungsstatus
-LBL_AUD_RELATION_CAR_UNIQUE_DD,Beziehungsgruppen- und fahrzeugeindeutig?
+LBL_AUD_RELATION_CAR_UNIQUE_DD,Beziehungsgruppen- und fahrzeug eindeutig?
 LBL_MAINTENANCE_TYPE,Automatische oder halbautomatische Pflege?
 LBL_AUD_CONTACT_TO_CARS_AUD_CONTACT_TO_CAR_REL_MGNT_AUD_RELATION_STATUS_DD,Beziehungsstatus

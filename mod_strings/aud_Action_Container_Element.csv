@@ -49,7 +49,7 @@ LBL_AUD_ACTION_CONAINTER_ID,Strecke
 LBL_AUD_ELEMENT_TYPE_DD,Elementtyp
 LBL_AUD_SAMPLE_SENDING_ALLOWED_FLAG,Musterversand möglich?
 LBL_AUD_EXT_WBK_DEEPLINK,Hyperlink
-LBL_DEALER_PARTICIPATION_ELE_RELATED_TAB,Participation Action Container Elemet
+LBL_DEALER_PARTICIPATION_ELE_RELATED_TAB,Participation Action Container Element
 LBL_DATA_COPY_DUE_DAYS,Datenabzugstermine
 LBL_DATA_COPY_DUE_DAYS_BUTTON,Datenabzugstermine
 LBL_AUD_MAX_HGW_DEALERS,Max Anzahl HGW Mitwerber
@@ -105,7 +105,7 @@ LBL_UNDO_HGW_PARTICIPATION_BUTTON,Teilnahme als HGW-Verantwortlicher zurückzieh
 LBL_DESCENDING_SORT,Neueste zuerst
 LBL_DATA_COPY_DATE_ASC,Ablaufdatum zuerst
 LBL_RUN_OUT_ACTIONS,abgelaufene Aktionen
-LBL_DAYS_UNTIL_NEXT_COPY_DATE,Nachster Datenabzug in {{content}} Tagen
+LBL_DAYS_UNTIL_NEXT_COPY_DATE,Nächster Datenabzug in {{content}} Tagen
 LBL_WBK_ICON_TEXT,WBK
 LBL_PARTICIPATE_NOW_BUTTON,Jetzt teilnehmen
 LBL_CUSTOM_BUTTON,Anpassen

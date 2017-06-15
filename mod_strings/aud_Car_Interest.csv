@@ -37,12 +37,12 @@ LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
 LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
 LBL_AUD_CAR_INTEREST_SUBPANEL_TITLE,Kunde Fahrzeuginteresse Beziehungsmanagement
 LBL_NEW_FORM_TITLE,Neu Kunde Fahrzeuginteresse Beziehungsmanagement
-LNK_IMPORT_VCARD,Import Kunde Fahrzeuginteresse Beziehungsmanagement vKunde Fahrzeuginteresse Beziehungsmanagementd
+LNK_IMPORT_VCARD,Import Kunde Fahrzeuginteresse Beziehungsmanagement vcard
 LBL_IMPORT,Import Kunde Fahrzeuginteresse Beziehungsmanagement
-LBL_IMPORT_VCARDTEXT,Automatically create a new Kunde Fahrzeuginteresse Beziehungsmanagement record by importing a vKunde Fahrzeuginteresse Beziehungsmanagementd from your file system.
+LBL_IMPORT_VCARDTEXT,Automatische Anlage eines neuen Kundeninteresses durch import einer vcard.
 LBL_AUD_RELATION_STATUS_DD,Beziehungsstatus
 LBL_AUD_MANUFACTURER,Hersteller
-LBL_AUD_MODEL_LINE,Modellreiehe
+LBL_AUD_MODEL_LINE,Modellreihe
 LBL_AUD_MODEL_DERIVATIVE,Modell/Derivat
 LBL_AUD_MODEL_DERIVATIVE_GEARBOX,Modell mit Motorisierung und Getriebe
 LBL_AUD_KEY_NEWADA,Schlüssel für NeWaDa

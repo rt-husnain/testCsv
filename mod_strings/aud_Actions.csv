@@ -36,7 +36,7 @@ LBL_SEARCH_FORM_TITLE,Suchen Aktionen
 LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
 LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
 LBL_AUD_AUD_ACTIONS_SUBPANEL_TITLE,Actions
-LBL_NEW_FORM_TITLE,Neu Aktion
+LBL_NEW_FORM_TITLE,Neue Aktion
 LNK_IMPORT_VCARD,Import Action vCard
 LBL_IMPORT,Import Actions
 LBL_IMPORT_VCARDTEXT,Automatically create a new Action record by importing a vCard from your file system.
@@ -53,7 +53,7 @@ LBL_AUD_ARCHIVE_ACTIONS,Archiv für Aktionen
 LBL_PARTICIPATION_BUTTON,Teilnahme erklären
 LBL_PARTICIPATION_CO_HGW_BUTTON,Teilnahme als HGW-Mitwerber
 LBL_PARTICIPATION_HGW_RESPONSIBLE_BUTTON,Teilnahme als HGW-Verantwortlicher
-LBL_UNDO_PARTICIPATION_BUTTON,Teilnahme zuruckziehen
+LBL_UNDO_PARTICIPATION_BUTTON,Teilnahme zurückziehen
 LBL_AUD_USE_AUTO_EXTEND_FOR_DEALER_FLAG,Automatische Erweiterung der Sichtbarkeit für Händler verwenden?
 LBL_AUD_ACTION_FROM_AUD_DEALER_PARTICIPATION_TITLE,Teilnehmende Partner
 LBL_AUD_ACTION_FROM_AUD_SENDING_WAVES_TITLE,Versandwellen
@@ -235,8 +235,8 @@ LBL_PAST_SELECTION_ENDING_DATE,Sie können die Bestellung nicht zurückziehen. D
 LBL_SUCCESSFUL_RECALL,Sie haben soeben erfolgreich die Bestellung zurückgezogen.
 LBL_EMPTY_SELECTION_ENDING_DATE,Das Selektionsende wurde nicht gesetzt. Bitte wenden Sie sich an
  Ihren CRM-Service-Dienstleister.
-TPL_DASHLET_CURRENT_NEWSLETTER_ACTIONS,Current Newsletter Aktionen
-LBL_CURRENT_NEWSLETTER_ACTIONS,Current Newsletter Aktionen
+TPL_DASHLET_CURRENT_NEWSLETTER_ACTIONS,Aktuelle Newsletter Aktionen
+LBL_CURRENT_NEWSLETTER_ACTIONS,Aktuelle Newsletter Aktionen
 LBL_AUD_ACTION_FROM_AUD_PERF_MEASUREMENT_TITLE,Erfolgsmessungen
 LBL_INVALID_ACTION_STATUS_ERROR_MESSAGE,Die Aktion befindet sich aktuell im Status
  {{aud_action_status_dd}}. Sie können keine Kunden mehr ein- bzw. ausmelden.

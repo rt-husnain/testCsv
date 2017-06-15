@@ -26,7 +26,7 @@ LBL_CREATED_ID,Erstellt von ID
 LBL_DOC_OWNER,Document Owner
 LBL_USER_FAVORITES,Users Who Favorite
 LBL_DESCRIPTION,Beschreibung
-LBL_DELETED,Deleted
+LBL_DELETED,Gelöscht
 LBL_NAME,Name (kurz)
 LBL_CREATED_USER,Erstellt von Benutzer
 LBL_MODIFIED_USER,Geändert von Benutzer
@@ -100,14 +100,14 @@ LBL_TYPE,Typ:
 LBL_USERS_ASSIGNED_LINK,Zugewiesener Benutzer
 LBL_USERS_CREATED_LINK,Erstellt von Benutzer
 LBL_USERS_MODIFIED_LINK,Bearbeitet von Benutzer
-LBL_VIEW_FORM_TITLE,Account View
+LBL_VIEW_FORM_TITLE,Listenansicht Kunde
 LBL_WEBSITE,Webseite:
 LBL_LINKEDIN,Linkedin Partner ID
 LBL_FACEBOOK,Facebook Partner
 LBL_TWITTER,Twitter Partner
 LBL_GOOGLEPLUS,Google Plus ID
 LNK_ACCOUNT_LIST,Partner
-LNK_NEW_ACCOUNT,Neueer Partner
+LNK_NEW_ACCOUNT,Neuer Partner
 MSG_DUPLICATE,Die Partner die Sie gerade erstellen bestehenden  bereits. 
     Partner mit ähnlichen Namen sind unten aufgeführt. <br>
     Drücken Sie auf Speichern um fortzusetzen oder auf Abbrechen um zum Modul zurückzukehren ohne die Speichern.

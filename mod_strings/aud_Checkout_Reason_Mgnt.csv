@@ -22,8 +22,8 @@ LBL_CREATED_USER,Created by User
 LBL_MODIFIED_USER,Modified by User
 LBL_LIST_NAME,Name
 LBL_EDIT_BUTTON,Edit
-LBL_REMOVE,Remove
-LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_REMOVE,Löschen
+LBL_EXPORT_MODIFIED_BY_NAME,Modifiziert von
 LBL_LIST_FORM_TITLE,Ausmeldegrundmanagement Liste
 LBL_MODULE_NAME,Ausmeldegrundmanagement
 LBL_MODULE_TITLE,Ausmeldegrundmanagement

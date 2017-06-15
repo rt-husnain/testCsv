@@ -13,13 +13,13 @@ LBL_CREATED_ID,Created By Id
 LBL_DOC_OWNER,Document Owner
 LBL_USER_FAVORITES,Users Who Favorite
 LBL_DESCRIPTION,Description
-LBL_DELETED,Deleted
+LBL_DELETED,Gelöscht
 LBL_NAME,Name
 LBL_CREATED_USER,Created by User
 LBL_MODIFIED_USER,Erstellt von
 LBL_LIST_NAME,Name
 LBL_EDIT_BUTTON,Edit
-LBL_REMOVE,Remove
+LBL_REMOVE,Entfernen
 LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
 LBL_AUD_TRIGGER_TXT,Ausgeführt durch
 LBL_AUD_BALANCE_COUNTER_BEFORE,Einmeldeguthaben vorher
@@ -45,6 +45,6 @@ LBL_IMPORT,Import Guthabentransaktionen
 LBL_IMPORT_VCARDTEXT,Automatically create a new Balance counter transaction record by importing a vCard from your file system.
 LNK_IMPORT_AUD_CON_BAL_COUNTER_LOG,Import Guthabentransaktionen
 LBL_AUD_CON_BAL_COUNTER_LOG_SUBPANEL_TITLE,Guthabentransaktionen
-LBL_AUD_CON_BAL_COUNTER_LOG_COTACTS_TITLE,Kundes
+LBL_AUD_CON_BAL_COUNTER_LOG_COTACTS_TITLE,Kunden
 LBL_AUD_CONTACT_ID,Kunde ID
 LBL_AUD_CONTACT_NAME,Kunde

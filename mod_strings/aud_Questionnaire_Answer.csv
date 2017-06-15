@@ -16,13 +16,13 @@ LBL_CREATED_ID,Erstellt von:
 LBL_DOC_OWNER,Document Owner
 LBL_USER_FAVORITES,Users Who Favorite
 LBL_DESCRIPTION,Description
-LBL_DELETED,Deleted
+LBL_DELETED,Gelöscht
 LBL_NAME,Antwort
 LBL_CREATED_USER,Created by User
 LBL_MODIFIED_USER,Modified by User
 LBL_LIST_NAME,Name
 LBL_EDIT_BUTTON,Edit
-LBL_REMOVE,Remove
+LBL_REMOVE,Entfernen
 LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
 LBL_LIST_FORM_TITLE,Fragebogenantworten Liste
 LBL_MODULE_NAME,Fragebogenantworten

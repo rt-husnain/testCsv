@@ -84,17 +84,17 @@ LBL_TREE_TITLE,Dokumente
 LBL_LIST_DOCUMENT_NAME,Dokument Name
 LBL_TEAMS,Teams
 LBL_TEAM_ID,Team ID
-LBL_MODULE_NAME_SINGULAR,Übersicht der erstellen Kundenlisten
-LBL_HOMEPAGE_TITLE,Mein Übersicht der erstellen Kundenlisten
-LNK_NEW_RECORD,Erstellen Übersicht der erstellen Kundenlisten
-LNK_LIST,Ansicht Übersicht der erstellen Kundenlisten
-LNK_IMPORT_AUD_CAMPAIGN_FILE_HISTORY,Import Übersicht der erstellen Kundenlisten
+LBL_MODULE_NAME_SINGULAR,Übersicht der erstellten Kundenlisten
+LBL_HOMEPAGE_TITLE,Meine Übersicht der erstellen Kundenlisten
+LNK_NEW_RECORD,Übersicht der erstellten Kundenlisten
+LNK_LIST,Übersicht der erstellten Kundenlisten
+LNK_IMPORT_AUD_CAMPAIGN_FILE_HISTORY,Importübersicht der erstellten Kundenlisten
 LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
 LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
-LBL_AUD_CAMPAIGN_FILE_HISTORY_SUBPANEL_TITLE,Übersicht der erstellen Kundenlisten
-LNK_IMPORT_VCARD,Import Übersicht der erstellen Kundenlisten vCard
-LBL_IMPORT,Import Übersicht der erstellen Kundenlisten
-LBL_IMPORT_VCARDTEXT,Automatically create a new Übersicht der erstellen Kundenlisten record by importing a vCard from your file system.
+LBL_AUD_CAMPAIGN_FILE_HISTORY_SUBPANEL_TITLE,Übersicht der erstellten Kundenlisten
+LNK_IMPORT_VCARD,Importübersicht der erstellten Kundenlisten vCard
+LBL_IMPORT,Importübersicht der erstellten Kundenlisten
+LBL_IMPORT_VCARDTEXT,Automatisch erzeugte Übersicht der erstellten Kundenlisten.
 LBL_ACTION_NAME,Aktion
 LBL_ACTION_ID,Aktion id
 LBL_ACTION_CONTAINER_ELEMENT_NAME,Streckenelement

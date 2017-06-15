@@ -16,7 +16,7 @@ LBL_CREATED_ID,Created By Id
 LBL_DOC_OWNER,Document Owner
 LBL_USER_FAVORITES,Users Who Favorite
 LBL_DESCRIPTION,Description
-LBL_DELETED,Deleted
+LBL_DELETED,Gelöscht
 LBL_NAME,Name
 LBL_CREATED_USER,Created by User
 LBL_MODIFIED_USER,Modified by User
@@ -24,23 +24,23 @@ LBL_LIST_NAME,Name
 LBL_EDIT_BUTTON,Edit
 LBL_REMOVE,Remove
 LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
-LBL_LIST_FORM_TITLE,Participation Action Container Eleme List
-LBL_MODULE_NAME,Participation Action Container Eleme
-LBL_MODULE_TITLE,Participation Action Container Eleme
-LBL_MODULE_NAME_SINGULAR,Participation Action Container Eleme
-LBL_HOMEPAGE_TITLE,My Participation Action Container Eleme
-LNK_NEW_RECORD,Create Participation Action Container Eleme
-LNK_LIST,View Participation Action Container Eleme
-LNK_IMPORT_AUD_DEALER_PARTICIPATION_ELE,Import Participation Action Container Eleme
-LBL_SEARCH_FORM_TITLE,Search Participation Action Container Eleme
-LBL_HISTORY_SUBPANEL_TITLE,View History
+LBL_LIST_FORM_TITLE,Teilnahme Streckenelementliste
+LBL_MODULE_NAME,Teilnahme Streckenelement
+LBL_MODULE_TITLE,Teilnahme Streckenelement
+LBL_MODULE_NAME_SINGULAR,Teilnahme Streckenelement
+LBL_HOMEPAGE_TITLE,Meine Teilnahme Streckenelemente
+LNK_NEW_RECORD,Create Teilnahme Streckenelement
+LNK_LIST,View Teilnahme Streckenelement
+LNK_IMPORT_AUD_DEALER_PARTICIPATION_ELE,Import Teilnahme Streckenelement
+LBL_SEARCH_FORM_TITLE,Search Teilnahme Streckenelement
+LBL_HISTORY_SUBPANEL_TITLE,Anzeige Historie
 LBL_ACTIVITIES_SUBPANEL_TITLE,Activity Stream
-LBL_AUD_DEALER_PARTICIPATION_ELE_SUBPANEL_TITLE,Participation Action Container Eleme
-LBL_NEW_FORM_TITLE,New Participation Action Container Eleme
-LNK_IMPORT_VCARD,Import Participation Action Container Eleme vCard
-LBL_IMPORT,Import Participation Action Container Eleme
+LBL_AUD_DEALER_PARTICIPATION_ELE_SUBPANEL_TITLE,Teilnahme Streckenelement
+LBL_NEW_FORM_TITLE,New Teilnahme Streckenelement
+LNK_IMPORT_VCARD,Import Teilnahme Streckenelement vCard
+LBL_IMPORT,Import Teilnahme Streckenelement
 LBL_IMPORT_VCARDTEXT,Automatically create a new Participation Action Container Eleme record by importing a vCard from your file system.
-LBL_AUD_ELEMENT_TYPE_DD,Element Type
+LBL_AUD_ELEMENT_TYPE_DD,Element Typ
 LBL_AUD_DEALER_PARTICIPATION_AUD_DEALER_PARTICIPATION_ID,aud dealer participation (related Dealer_Participation ID)
 LBL_AUD_DEALER_PARTICIPATION,Teilnehmende Partner
 LBL_AUD_ACTION_CONTAINER_ELEMENT_AUD_ACTION_CONTAINER_ELEMENT_ID,aud action container element (related Action Container Elements ID)

@@ -16,14 +16,14 @@ LBL_CREATED_ID,Erstellt von:
 LBL_DOC_OWNER,Document Owner
 LBL_USER_FAVORITES,Users Who Favorite
 LBL_DESCRIPTION,Description
-LBL_DELETED,Deleted
+LBL_DELETED,Gelöscht
 LBL_NAME,Name
 LBL_CREATED_USER,Created by User
 LBL_MODIFIED_USER,Modified by User
 LBL_LIST_NAME,Name
 LBL_EDIT_BUTTON,Edit
-LBL_REMOVE,Remove
-LBL_EXPORT_MODIFIED_BY_NAME,Modified By Name
+LBL_REMOVE,Entfernen
+LBL_EXPORT_MODIFIED_BY_NAME,Modifiziert von
 LBL_LIST_FORM_TITLE,Teilnehmende Partner Liste
 LBL_MODULE_NAME,Teilnehmende Partner
 LBL_MODULE_TITLE,Teilnehmende Partner
@@ -35,7 +35,7 @@ LNK_IMPORT_AUD_Dealer Participation,Import Dealer Participation
 LBL_SEARCH_FORM_TITLE,Suchen Teilnehmende Partner
 LBL_HISTORY_SUBPANEL_TITLE,Verlauf ansehen
 LBL_ACTIVITIES_SUBPANEL_TITLE,Aktivitäten
-LBL_AUD_Dealer Participation_SUBPANEL_TITLE,Dealer Participation
+LBL_AUD_Dealer Participation_SUBPANEL_TITLE,Teilnehmende Partner
 LBL_NEW_FORM_TITLE,Neu Teilnehmende Partner
 LNK_IMPORT_VCARD,Import Dealer Participation vCard
 LBL_IMPORT,Import Dealer Participation
